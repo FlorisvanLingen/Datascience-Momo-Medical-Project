@@ -21,6 +21,30 @@
 <h2> 1. Datacamp cursussen. </h2>
 Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen is het vereist meer dan 90% van de verplichte cursussen af te hebben gerond.
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
 <div class="row">
   <div class="column">
     <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" style="width:100%">
