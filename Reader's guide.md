@@ -1,5 +1,5 @@
 # <h1> Datascience-Momo-Medical-Project <h1>
-![alt text](https://github.com/[FlorisvanLingen]/[Datascience-Momo-Medical-Project]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[FlorisvanLingen]/[Datascience-Momo-Medical-Project]/blob/[Images]/Afbeelding1.jpg?raw=true)
   
  
 
