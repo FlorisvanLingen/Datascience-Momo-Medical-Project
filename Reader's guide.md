@@ -3,7 +3,7 @@
 
 <h2>Inhoudsopgave<h2>
 
-<h3>1. Datacamp cursussen	
+<h5>1. Datacamp cursussen<h5>
 2. Kennis van het domein	
 3. Voorspellende Modellen	
 4. Voorbereiding data	
@@ -14,7 +14,7 @@
 9. Communicatie	
 10. Python Notebooks	
 11. Scrum backlog tickets	
-12. Andere opdrachten<h3>
+12. Andere opdrachten
 
 
 1. Datacamp cursussen.
