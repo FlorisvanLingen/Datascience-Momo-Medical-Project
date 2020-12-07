@@ -14,7 +14,7 @@
   <h5> 8. Diagnostiek van het leerproces </h5>
   <h5> 9. Communicatie <h5>
   <h5> 10. Python Notebooks </h5>	
-  <h5> 11. Scrum backlog tickets </h5>
+  <h5> 11. Scrum backlog tickets </h5> 
   <h5> 12. Andere opdrachten </h5>
 
 
@@ -29,12 +29,9 @@ Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/5.%20certificate%20-%20pandas%20Foundations.jpg  " width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/6.%20certificate%20-%20Manipulating%20DataFrames%20with%20pandas.jpg  " width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/7.%20certificate%20-%20Introduction%20to%20Data%20Visualization%20in%20Python.jpg " width="50%" height="50%" />
-<img src="
-https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/8.%20certificate%20-%20Data%20Types%20for%20Data%20Science%20in%20Python.jpg  " width="50%" height="50%" />
-<img src=" 
-https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python.jpg  " width="50%" height="50%" />
-<img src="
-https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas.jpg  " width="50%" height="50%" />
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/8.%20certificate%20-%20Data%20Types%20for%20Data%20Science%20in%20Python.jpg  " width="50%" height="50%" />
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python.jpg  " width="50%" height="50%" />
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas.jpg  " width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/11.%20certificate%20-%20Preprocessing%20for%20Machine%20Learning%20in%20Pyhton.jpg " width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/12.%20certificate%20-%20Exploratory%20Data%20Analysis%20in%20Python.jpg  " width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/13.%20certificate%20-%20Hyperparameter%20Tuning%20in%20Python.jpg  " width="50%" height="50%" />
