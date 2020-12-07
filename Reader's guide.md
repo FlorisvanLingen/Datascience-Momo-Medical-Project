@@ -18,5 +18,7 @@
   <h5> 12. Andere opdrachten <h5>
 
 
-1. Datacamp cursussen.
-Om een + te krijgen in de beoordeling van het afronden van de datacamp curssussen is het vereist meer dan 90% van de verplichte cursussen af te hebben gerond.
+<h2> 1. Datacamp cursussen. <h2>
+Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen is het vereist meer dan 90% van de verplichte cursussen af te hebben gerond.
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python.pdf?raw=true)
+  
