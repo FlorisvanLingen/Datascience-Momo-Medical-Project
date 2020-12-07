@@ -20,6 +20,8 @@
 
 <h2> 1. Datacamp cursussen. </h2>
 Om een goede beoordeling te krijgen voor het "Datacamp" gedeelte van de verplichte criterea, is het afronden van 90 procent van de curssussen vereist.
+Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verolicht gesteld door de opleiding maar deze heb ik gedaan om 
+meer te leren over hoe machinelearning en crossvalidation wordt toegepast bij tijdseries modellen.
 <br/><br/>
 
 <p align="left">
