@@ -1,6 +1,7 @@
 # <h1> Datascience-Momo-Medical-Project <h1>
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/[FlorisvanLingen]/[Datascience-Momo-Medical-Project]/blob/[branch]/image.jpg?raw=true)
+  
+ 
 
 <h2> Inhoudsopgave <h2>
   <h5> 1. Datacamp cursussen <h5>
