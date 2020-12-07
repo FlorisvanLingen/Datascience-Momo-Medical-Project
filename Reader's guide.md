@@ -21,12 +21,12 @@
 <h2> 1. Datacamp cursussen. </h2>
 Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen is het vereist meer dan 90% van de verplichte cursussen af te hebben gerond.
 
-<p float="centre">
+<p float="left">
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%" height="30%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="30%" height="30%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/3.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%201)-1.jpg" width="50%" height="50%" />
  </p>
- <p float="centre">
+ <p float="left">
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/4.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%202)-1.jpg" width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/5.%20certificate%20-%20pandas%20Foundations-1.jpg  " width="50%" height="50%" />
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/6.%20certificate%20-%20Manipulating%20DataFrames%20with%20pandas-1.jpg  " width="50%" height="50%" />
