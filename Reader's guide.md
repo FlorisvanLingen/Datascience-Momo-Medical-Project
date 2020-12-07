@@ -24,7 +24,7 @@ Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen
 
 
 
-![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg?raw=true)<!-- .element height="50%" width="50%" -->
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg?)<!-- .element height="50%" width="50%" -->
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg?raw=true)
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/3.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/4.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf) 
