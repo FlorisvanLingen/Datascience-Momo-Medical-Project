@@ -39,3 +39,8 @@ Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python.pdf)  
 
 
+
+
+https://docs.google.com/viewer?url=${https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python.pdf}
+
+
