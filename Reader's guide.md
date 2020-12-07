@@ -21,4 +21,22 @@
 <h2> 1. Datacamp cursussen. </h2>
 Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen is het vereist meer dan 90% van de verplichte cursussen af te hebben gerond.
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python.pdf?raw=true)
-  
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python.pdf)
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/3.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/4.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf) 
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/5.%20certificate%20-%20pandas%20Foundations.pdf)  
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/6.%20certificate%20-%20Manipulating%20DataFrames%20with%20pandas.pdf)  
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/7.%20certificate%20-%20Introduction%20to%20Data%20Visualization%20in%20Python.pdf)  
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/8.%20certificate%20-%20Data%20Types%20for%20Data%20Science%20in%20Python.pdf)  
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python.pdf)  
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas.pdf)  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
+![]()  
+
