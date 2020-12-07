@@ -20,6 +20,10 @@
 
 <h2> 1. Datacamp cursussen. </h2>
 Om een goede beoordeling te krijgen voor het afronden van de datacamp curssussen is het vereist meer dan 90% van de verplichte cursussen af te hebben gerond.
+
+
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg)
+
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python.jpg?raw=true)
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python.pdf)
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/3.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
