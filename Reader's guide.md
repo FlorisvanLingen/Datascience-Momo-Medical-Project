@@ -60,11 +60,27 @@ meer te leren over hoe machinelearning en crossvalidation wordt toegepast bij ti
 </p>
 
 
+
+!!!!The contents of your personal portfolio should reflect your contribution to the project, your abilities and what you have learned!!!!
+
 <h2> 2. Kennis van het domein </h2>	
 
 <h5>Literature</h5>
+Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit project.
+<br/><br/>
+
+
+
+
+
+
+
+
+
 <h5>Jargon</h5>
+
 <h5>evaluation</h5>
+
 <h5>existing data sets</h5>
 
 
