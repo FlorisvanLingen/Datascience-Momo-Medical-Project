@@ -60,8 +60,17 @@ meer te leren over hoe machinelearning en crossvalidation wordt toegepast bij ti
 </p>
 
 
-
-
+<h2> 2. Kennis van het domein </h2>	
+<h2> 3. Voorspellende Modellen </h2>
+<h2> 4. Voorbereiding data </h2>
+<h2> 5. Data Visualisatie </h2>	
+<h2> 6. Data verzameling </h2>	
+<h2> 7. Evaluatie </h2>	
+<h2> 8. Diagnostiek van het leerproces </h2>
+<h2> 9. Communicatie <h2>
+<h2> 10. Python Notebooks </h2>	
+<h2> 11. Scrum backlog tickets </h2> 
+<h2> 12. Andere opdrachten </h2>
 
 
 
