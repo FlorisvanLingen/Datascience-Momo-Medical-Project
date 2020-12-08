@@ -61,6 +61,32 @@ meer te leren over hoe machinelearning en crossvalidation wordt toegepast bij ti
 
 
 <h2> 2. Kennis van het domein </h2>	
+
+<h5>Literature</h5>
+<h5>Jargon</h5>
+<h5>evaluation</h5>
+<h5>existing data sets</h5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2> 3. Voorspellende Modellen </h2>
 <h2> 4. Voorbereiding data </h2>
 <h2> 5. Data Visualisatie </h2>	
