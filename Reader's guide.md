@@ -107,7 +107,13 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 <h2> 4. Voorbereiding data </h2>
 <h2> 5. Data Visualisatie </h2>	
 <h2> 6. Data verzameling </h2>	
-<h2> 7. Evaluatie </h2>	
+<h2> 7. Reflectie en Evaluatie </h2>	
+
+400 woorden STARR methode, reflectie bijdragen product reflectie leerdoelen, reflectie projectgroep asl geheel. 
+
+
+
+
 <h2> 8. Diagnostiek van het leerproces </h2>
 <h2> 9. Communicatie <h2>
 <h2> 10. Python Notebooks </h2>	
