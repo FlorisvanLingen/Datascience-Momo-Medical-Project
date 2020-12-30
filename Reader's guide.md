@@ -24,6 +24,42 @@ Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. 
 meer te leren over hoe machinelearning en crossvalidation wordt toegepast bij tijdseries modellen.
 <br/><br/>
 
+
+
+<details>
+<summary>1.	Introduction to Python</summary>
+<br>
+This is how you dropdown.
+</details>
+
+<details>
+<summary>2.	Intermediate Pyhton</summary>
+<br>
+This is how you dropdown.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left">
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="30%">
