@@ -29,13 +29,103 @@ meer te leren over hoe machinelearning en crossvalidation wordt toegepast bij ti
 <details>
 <summary>1.	Introduction to Python</summary>
 <br>
-This is how you dropdown.
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
 </details>
 
 <details>
-<summary>2.	Intermediate Pyhton</summary>
+<summary>2.	Intermediate Python</summary>
 <br>
-This is how you dropdown.
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="30%">
+</details>
+
+<details>
+<summary>3.	Python Data Science Toolbox (Part 1)</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/3.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%201)-1.jpg" width="30%">
+</details>
+
+<details>
+<summary>4.	Python Data Science Toolbox (Part 2)</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/4.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%202)-1.jpg" width="30%" />
+</details>
+
+<details>
+<summary>5.	Pandas Foundations</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/5.%20certificate%20-%20pandas%20Foundations-1.jpg " width="30%" />
+</details>
+
+<details>
+<summary>6.	Manipulating DataFrames with pandas</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/6.%20certificate%20-%20Manipulating%20DataFrames%20with%20pandas-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>7.	Introduction to Data Visualization in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/7.%20certificate%20-%20Introduction%20to%20Data%20Visualization%20in%20Python-1.jpg " width="30%"/>
+</details>
+
+<details>
+<summary>8.	Data Types for Data Science in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/8.%20certificate%20-%20Data%20Types%20for%20Data%20Science%20in%20Python-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>9.	Cleaning Data in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>10.	Merging DataFrames with pandas</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>11.	Preprocessing for Machine Learning in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/11.%20certificate%20-%20Preprocessing%20for%20Machine%20Learning%20in%20Pyhton-1.jpg " width="30%"/>
+</details>
+
+<details>
+<summary>12.	Exploratory Data Analysis in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/12.%20certificate%20-%20Exploratory%20Data%20Analysis%20in%20Python-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>13.	Hyperparameter Tuning in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/13.%20certificate%20-%20Hyperparameter%20Tuning%20in%20Python-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>14.	Writing Efficient Python Code</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/14.%20certificate%20-%20Writing%20Ecient%20Python%20Code-1.jpg " width="30%"/>
+</details>
+
+<details>
+<summary>15.	Winning a Kaggle Competition in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/15.%20certificate%20-%20Winning%20a%20Kaggle%20Competition%20in%20Python-1.jpg  " width="30%"/>
+</details>
+
+<details>
+<summary>16.	Introduction to Deep Learning with PyTorch</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/16.%20certificate%20-%20Introduction%20to%20Deep%20Learning%20with%20PyTorch-1.jpg" width="30%"/>
+</details>
+
+<details>
+<summary>17.	Machine Learning for Time Series Data in Python</summary>
+<br>
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python-1.jpg" width="30%"/>
 </details>
 
 
@@ -56,44 +146,6 @@ This is how you dropdown.
 
 
 
-
-
-
-
-<p align="left">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="30%">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/3.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%201)-1.jpg" width="30%">
-</p>
-
-<p align="left">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/4.%20certificate%20-%20Python%20Data%20Science%20Toolbox%20(Part%202)-1.jpg" width="30%" />
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/5.%20certificate%20-%20pandas%20Foundations-1.jpg " width="30%" />
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/6.%20certificate%20-%20Manipulating%20DataFrames%20with%20pandas-1.jpg  " width="30%"/>
-</p>
-
-<p align="left">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/7.%20certificate%20-%20Introduction%20to%20Data%20Visualization%20in%20Python-1.jpg " width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/8.%20certificate%20-%20Data%20Types%20for%20Data%20Science%20in%20Python-1.jpg  " width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python-1.jpg  " width="30%"/>
-</p>
-
-<p align="left">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas-1.jpg  " width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/11.%20certificate%20-%20Preprocessing%20for%20Machine%20Learning%20in%20Pyhton-1.jpg " width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/12.%20certificate%20-%20Exploratory%20Data%20Analysis%20in%20Python-1.jpg  " width="30%"/>
-</p>
-
-<p align="left">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/13.%20certificate%20-%20Hyperparameter%20Tuning%20in%20Python-1.jpg  " width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/14.%20certificate%20-%20Writing%20Ecient%20Python%20Code-1.jpg " width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/15.%20certificate%20-%20Winning%20a%20Kaggle%20Competition%20in%20Python-1.jpg  " width="30%"/>
-</p>
-
-<p align="left">
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/16.%20certificate%20-%20Introduction%20to%20Deep%20Learning%20with%20PyTorch-1.jpg" width="30%"/>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python-1.jpg" width="30%"/>
-</p>
 
 
 
