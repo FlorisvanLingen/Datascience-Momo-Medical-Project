@@ -258,6 +258,8 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 
 <h2> 8. Diagnostiek van het leerproces </h2>
 <h2> 9. Communicatie <h2>
+  informatie over het aantal presentaties dat ik gegeven heb, intern en extern
+  informatie over wat ik gedaan heb aan de paper: discussie, modellen
 <h2> 10. Python Notebooks </h2>	
 <h2> 11. Scrum backlog tickets </h2> 
 <h2> 12. Andere opdrachten </h2>
