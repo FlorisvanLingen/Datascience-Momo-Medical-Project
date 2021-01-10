@@ -251,36 +251,31 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 <h2> 6. Data verzameling </h2>	
 <h2> 7. Reflectie en Evaluatie </h2>	
 
-Situatie
+<h5>Situatie</h5>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
 De aanleiding voor dit project is het hoge aantal valongelukken bij ouderen in de zorg. Het bedrijf MomoMedical heeft een sensorplaat ontworpen waarmee ze de houdingen van patienten kunnen monitoren en kunnen  aangeven wanneer deze van houding moeten veranderen in verband met doorligwonden. Uit de praktijk is de vraag gekomen of er door middel van deze sensorplaat ook voorspeld kan worden wanneer patiënten hun bed verlaten. 
-De projectgroep bestaande uit Roy, Salah, Jeanine, Nick, Theo en ik zelf waren betrokken bij dit project. Uiteraard was de opdrachtgever ook betrokken bij dit project vooral Thomas en Maarten. Ook waren er een hoop begeleiders betrokken bij dit project om ons raad te geven en te sturen tijdens dit project. Het ging om Jeroen, Ruud, Brian, Gerda en Tony.<br/><br/>
+De projectgroep bestaande uit Roy, Salah, Jeanine, Nick, Theo en ik zelf waren betrokken bij dit project. Uiteraard was de opdrachtgever ook betrokken bij dit project vooral Thomas en Maarten. Ook waren er een hoop begeleiders betrokken bij dit project om ons raad te geven en te sturen tijdens dit project. Het ging om Jeroen, Ruud, Brian, Gerda en Tony.
 Het project speelde zich vooral vanuit huis af vanwege de maatregelen omtrent COVID-19. Wel is er zoveel mogelijk toen der tijd op de HaagseHogeschool afgesproken om samen te werken. Ook zijn we bij MomoMedical op locatie geweest.
 De duur van het project was 1 semester beginnende op 31 augustus 2020.
 <br/><br/>
-<br/><br/>
-<br/><br/>
-
-
-
 
 <h5>Taak</h5>
 Het was mijn taak om samen met de andere projectleden de projectdoelen te halen. De subtaken die ik heb uitgevoerd om dit te bereiken zijn eerder beschreven en toegelicht.
-Mijn rol naast projectlid, binnen dit project, was notulist. Naast het samenvatten en vastleggen van alle vergaderingen was ik ook verantwoordelijk voor het bijwerken van het Microsoft Teams kanaal. Met bijwerken wordt versiebeheer en mappenstructuur bedoeld.<br/><br/>
-Naast dat ik de door de opdrachtgever gestelde doelen graag wilde behalen wilde ik ook leren coderen in python speciaal voor datascience. Verder wilde ik meer leren over de werking van machine learning en hoe je dit middels verschillende modellen kan toepassen.<br/><br/>
-Van mij werd door de opdrachtgever verwacht dat ik samen met mijn projectleden de juiste stappen zou zetten om middels een model de gestelde doelen zou behalen. Door de docenten werd verwacht dat ik de keuzes gemaakt tijdens dit project goed kan vastleggen en onderbouwen. Verder dat er met een professionele houding omgegaan wordt met de opdrachtgever zodat deze in het vervolg nog wil samenwerken met de hogeschool. <br/><br/>
-Verder verwachtte ik van mezelf tijdens dit project dat ik goed vanuit huis zou kunnen werken aangezien ik dit ervoor ook gedwongen heb moeten doen met mijn stage. Ook dat ik mijn best zou doen om goede resultaten te halen aangezien ik de opdrachtgever niet teleur wilde stellen.<br/><br/>
+Mijn rol naast projectlid, binnen dit project, was notulist. Naast het samenvatten en vastleggen van alle vergaderingen was ik ook verantwoordelijk voor het bijwerken van het Microsoft Teams kanaal. Met bijwerken wordt versiebeheer en mappenstructuur bedoeld.
+Naast dat ik de door de opdrachtgever gestelde doelen graag wilde behalen wilde ik ook leren coderen in python speciaal voor datascience. Verder wilde ik meer leren over de werking van machine learning en hoe je dit middels verschillende modellen kan toepassen.
+Van mij werd door de opdrachtgever verwacht dat ik samen met mijn projectleden de juiste stappen zou zetten om middels een model de gestelde doelen zou behalen. Door de docenten werd verwacht dat ik de keuzes gemaakt tijdens dit project goed kan vastleggen en onderbouwen. Verder dat er met een professionele houding omgegaan wordt met de opdrachtgever zodat deze in het vervolg nog wil samenwerken met de hogeschool. 
+Verder verwachtte ik van mezelf tijdens dit project dat ik goed vanuit huis zou kunnen werken aangezien ik dit ervoor ook gedwongen heb moeten doen met mijn stage. Ook dat ik mijn best zou doen om goede resultaten te halen aangezien ik de opdrachtgever niet teleur wilde stellen.
 Ik vond dat het erg belangrijk was om van te voren alle dataverwerkingen vast te leggen zodat onze stukken python code op elkaar aansluiten en geen fouten maken die de validiteit van de resultaten in gevaar brachten. <br/><br/>
 
 <h5>Actie </h5>
 Allereerst pakte ik dit project aan door een duidelijke taak verdeling en planning te maken. De groepsleden waren het er mee eens dat een duidelijke planning en taakverdeling vereist was voor het uitvoeren van dit project.
 Ieder groepslid kreeg zijn extra rol en subtaken toegewezen. Verder zijn we begonnen met het aanleren van de technische skills om dit project te kunnen voltooien middels datacamp curssussen. Tegelijk is iedereen begonnen met het uitvoeren van deskresearch opzoek naar peer-reviewed-journals waarin soortgelijke problemen behandeld werden. 
 Toen we uiteindelijk aan de slag gingen met ons eerste model hebben vanaf dat moment het iteratieve proces van choose, train, evaluate en tune model gebruikt. Tijdens het project kwamen we er achter dat we veel focus hadden gelegd op het schrijven van stukken code die onze data transformeerde voor het gebruik in een model en dat we te weinig focus hadden gelegd op het maken van goede features. Als het ware liep ons model tegen een muur aan. Ik voelde me onzeker of we met deze koers nog wel de juiste resultaten zouden halen. Dit werd besproken met de rest van de groep en vanaf dat moment hebben we twee weken vol ingezet op feature engineering. 
-
+<br/><br/>
 
 <h5>Resultaat</h5> 
 Uiteindelijk verbeterde onze resultaten enorm waardoor we de voorspellingstijd naar voren hebben kunnen schuiven naar een minuut in plaats van 10 seconden van tevoren. Hierbij gingen onze evaluatie scores wel een stukje naar beneden maar hielden we nog een accuracy score van circa 80% over. We hebben toen nog gewerkt aan een script waarmee het model om de 30 seconden voorspellingen maakte op basis van nieuwe data en dit voorgelegd aan de opdracht gever. De was uiteindelijk erg tevreden met de verbetering en de resultaten. Verder denk ik dat de begeleiders het er ook mee eens zijn dat het goed is dat we uiteindelijk feature engineering de aandacht hebben gegeven die het verdient. 
-
+<br/><br/>
 
 <h5>Reflectie</h5> 
 Over het algemeen vond ik dat ik het goed gedaan heb tijdens dit project, vooral om met enige tegen slagen toch de motivatie te vinden om verder te gaan. Ik ben erg tevreden met de uiteindelijk behaalde resultaten. Wel vraag ik me af waar we hadden kunnen eindigen met meer tijd, of als we eerder de focus hadden gelegd op feature engineering. Verder hebben we deep learning buiten de scope gelaten tijdens dit project en vind ik het jammer dat we daar geen ervaring mee heb kunnen op doen. 
