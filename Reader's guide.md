@@ -324,11 +324,11 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
      - 08 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
 </li>
 <li> 
-  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 15</a>
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%2015%20-%2014.pptx">Week 15</a>
      - 14 December: De interne presentatie is gemaakt en gegeven door ... en ik.
 </li>
 <li> 
-  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 15</a>
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%2015%20-%2018.pptx">Week 15</a>
      - 18 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
 </li>
 </ul>
