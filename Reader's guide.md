@@ -240,13 +240,13 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
     <td>Data Science Methods and Machine Learning Algorithm Implementations for Customized Pratical Usage</td>
     <td>Uitleg over machine learning in een praktische setting.</td>
     <td>24-9-2020</td>
-    <td>http://easy.squareis.com/http/web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=841f9ecb-447c-4637-a504-628ca6f34ec6%40pdc-v-sessmgr05&____x=1955</td>
+    <td>https://www.ceeol.com/search/article-detail?id=894806</td>
   </tr>
   <tr>
     <td>Advanced Sensing and Human Activity Recognition in Early Intervention and Rehabilitation of Elderly People</td>
     <td>Herkenning menselijke activiteit van ouderen door middel van machine learning. Onder andere zitten staan en liggen.</td>
     <td>2-10-2020</td>
-    <td>http://easy.squareis.com/https/search.proquest.com/assia/docview/2411052551/E168635B26A54446PQ/8?accountid=27407&____x=1366</td>
+    <td>https://link.springer.com/content/pdf/10.1007/s12062-020-09260-z.pdf</td>
   </tr>
   <tr>
     <td>The Challenges of Data Quality and Data Quality Assessment in the Big Data Era</td>
