@@ -298,14 +298,14 @@ informatie over wat ik gedaan heb aan de paper: discussie, modellen
  
 <h5>Presentaties</h5>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
-  * Week 6  - 05 Oktober  : De interne presentatie is gemaakt en gegeven mij.
-  * Week 8  - 27 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
-  * Week 9  - 03 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
-  * Week 10 - 10 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
-  * Week 11 - 17 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
-  * Week 14  - 08 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
-  * Week 15  - 14 December: De interne presentatie is gemaakt en gegeven door ... en ik.
-  * Week 15  - 18 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+ * Week 6  - 05 Oktober  : De interne presentatie is gemaakt en gegeven mij.
+ * Week 8  - 27 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
+ * Week 9  - 03 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+ * Week 10 - 10 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+ * Week 11 - 17 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+ * Week 14  - 08 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+ * Week 15  - 14 December: De interne presentatie is gemaakt en gegeven door ... en ik.
+ * Week 15  - 18 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
 
 <h5>Schrijven van de paper</h5>
   
