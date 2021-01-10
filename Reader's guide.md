@@ -202,6 +202,9 @@ meer te leren over hoe machine learning en cross-validation worden toegepast bij
 <h2> 2. Kennis van het domein </h2>	
 Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit project.
 <br/><br/>
+
+
+
 <style>
 table {
   font-family: arial, sans-serif;
@@ -219,8 +222,6 @@ tr:nth-child(even) {
   background-color: #dddddd;
 }
 </style>
-</head>
-<body>
 
 <h4>Literature</h4>
 
