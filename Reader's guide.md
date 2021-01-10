@@ -19,9 +19,8 @@
   <h5> 13. Andere opdrachten </h5>
 
 <h2> 1. Inleiding </h2>
-<p size="0.5">
 Valongevallen bij ouderen is een groot probleem. Volgens het CBS bezochten 108.000 65-plussers in 2018 een spoedeisende-hulpafdeling, hierna SEH, ten gevolge van een valongeval. Dit betekent dat per 100.000 65-plussers 3.320 een SEH hebben bezocht na een valongeval. Van alle bezoeken aan de SEH werd 33% opgenomen in het ziekenhuis in 2017. Naast het aantal ziekenhuis opnames is de sterfte van ouderen ten gevolge van een val een reëel probleem. Volgens het CBS overleden in 2018 4.396 65-plusser als gevolg van een val. Hierdoor was in 2018 een val de nummer één doodsoorzaak bij dodelijke ongevallen bij 65-plussers, namelijk 89% (CBS, 2019). 
-</p>
+
   
 Voor het onderzoek wordt een opdracht uitgevoerd, die is geleverd door Momo Medical. Momo Medical is een groeiende startup, die een sensor heeft ontwikkeld. Deze sensor wordt geplaatst onder het matras van patiënten in een verzorgingstehuis. Met behulp van deze sensor is het mogelijk om vanuit een applicatie, genaamd BedSense, te zien of een patiënt in zijn of haar bed ligt. Deze functie wordt gebruikt door nachtzusters om te voorkomen dat patiënten ‘s nachts gaan dwalen, vallen als zij uit bed willen stappen en ondersteunt de wisselligging. Het doel van dit onderzoek is een algoritme ontwikkelen dat door middel van de gegevens van de sensor voorspelt wanneer een patiënt zijn of haar bed gaat verlaten. In de toekomst zou de nachtdienst, door middel van het ontwikkelde algoritme, valongelukken die plaatsvinden gedurende de nacht kunnen voorkomen. 
 <br/><br/>
@@ -294,12 +293,11 @@ Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skil
 
 <h2> 8. Diagnostiek van het leerproces </h2>
 <h2> 9. Communicatie <h2>
-  informatie over het aantal presentaties dat ik gegeven heb, intern en extern
-  informatie over wat ik gedaan heb aan de paper: discussie, modellen
+informatie over het aantal presentaties dat ik gegeven heb, intern en extern
+informatie over wat ik gedaan heb aan de paper: discussie, modellen
   
-  Hieronder staan de presentaties waar ik aan bij heb gedragen:
-  
-  * Week 8 - 27 Oktober: De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
+Hieronder staan de presentaties waar ik aan bij heb gedragen:
+* Week 8 - 27 Oktober: De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
   
 <h2> 10. Python Notebooks </h2>	
 <h2> 11. Scrum backlog tickets </h2> 
