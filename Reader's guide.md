@@ -299,21 +299,38 @@ informatie over wat ik gedaan heb aan de paper: discussie, modellen
 <h5>Presentaties</h5>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <ul>  
- <li>
-    <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 6</a>
-  - 05 Oktober  : De interne presentatie is gemaakt en gegeven mij.
-  </li>
-  
-  
-  
-  
- <li> Week 8  - 27 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.</li>
- <li> Week 9  - 03 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.</li>
- <li> Week 10 - 10 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.</li>
- <li> Week 11 - 17 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.</li>
- <li> Week 14  - 08 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.</li>
- <li> Week 15  - 14 December: De interne presentatie is gemaakt en gegeven door ... en ik.</li>
- <li> Week 15  - 18 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.</li>
+<li>
+<a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 6</a>
+- 05 Oktober  : De interne presentatie is gemaakt en gegeven mij.
+</li>
+<li> 
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%208.pptx">Week 8</a>
+    - 27 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
+</li>
+<li>
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%209.pptx">Week 9</a>
+    - 03 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+</li>
+<li> 
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%2010.pptx">Week 10</a>
+    - 10 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+</li>
+<li> 
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%2011.pptx">Week 11</a>
+    - 17 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+</li>
+<li> 
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%2014.pptx">Week 14</a>
+     - 08 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+</li>
+<li> 
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 15</a>
+     - 14 December: De interne presentatie is gemaakt en gegeven door ... en ik.
+</li>
+<li> 
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 15</a>
+     - 18 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
+</li>
 </ul>
 <h5>Schrijven van de paper</h5>
   
