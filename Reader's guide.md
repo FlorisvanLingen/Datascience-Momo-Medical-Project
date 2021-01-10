@@ -299,7 +299,7 @@ informatie over wat ik gedaan heb aan de paper: discussie, modellen
 <h5>Presentaties</h5>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <ul>
- <li> [Week 6 ](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/tree/Presentations/Week 6.pptx)  
+ <li> [Week 6 ](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx)  
    - 05 Oktober  : De interne presentatie is gemaakt en gegeven mij.</li>
  <li> Week 8  - 27 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.</li>
  <li> Week 9  - 03 November : De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.</li>
