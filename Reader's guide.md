@@ -36,7 +36,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <ul>
   <li>Wat is het optimale algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
 </ul>
-<h5>Deelvragen</h5> 
+<h4>Deelvragen</h4> 
 <ul>
 <li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
 <ul>
@@ -201,7 +201,7 @@ meer te leren over hoe machine learning en cross-validation worden toegepast bij
 
 <h2> 2. Kennis van het domein </h2>	
 
-<h5>Literature</h5>
+<h4>Literature</h4>
 Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit project.
 <br/><br/>
 
@@ -213,11 +213,11 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 
 
 
-<h5>Jargon</h5>
+<h4>Jargon</h4>
 
-<h5>evaluation</h5>
+<h4>evaluation</h4>
 
-<h5>existing data sets</h5>
+<h4>existing data sets</h4>
 
 
 
@@ -245,7 +245,7 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 <h2> 6. Data verzameling </h2>	
 <h2> 7. Reflectie en Evaluatie </h2>	
 
-<h5>Situatie</h5>
+<h4>Situatie</h4>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
 De aanleiding voor dit project is het hoge aantal valongelukken bij ouderen in de zorg. Het bedrijf MomoMedical heeft een sensorplaat ontworpen waarmee ze de houdingen van patienten kunnen monitoren en kunnen  aangeven wanneer deze van houding moeten veranderen in verband met doorligwonden. Uit de praktijk is de vraag gekomen of er door middel van deze sensorplaat ook voorspeld kan worden wanneer patiënten hun bed verlaten. 
 De projectgroep bestaande uit Roy, Salah, Jeanine, Nick, Theo en ik zelf waren betrokken bij dit project. Uiteraard was de opdrachtgever ook betrokken bij dit project vooral Thomas en Maarten. Ook waren er een hoop begeleiders betrokken bij dit project om ons raad te geven en te sturen tijdens dit project. Het ging om Jeroen, Ruud, Brian, Gerda en Tony.
@@ -253,7 +253,7 @@ Het project speelde zich vooral vanuit huis af vanwege de maatregelen omtrent CO
 De duur van het project was 1 semester beginnende op 31 augustus 2020.
 <br/><br/>
 
-<h5>Taak</h5>
+<h4>Taak</h4>
 Het was mijn taak om samen met de andere projectleden de projectdoelen te halen. De subtaken die ik heb uitgevoerd om dit te bereiken zijn eerder beschreven en toegelicht.
 Mijn rol naast projectlid, binnen dit project, was notulist. Naast het samenvatten en vastleggen van alle vergaderingen was ik ook verantwoordelijk voor het bijwerken van het Microsoft Teams kanaal. Met bijwerken wordt versiebeheer en mappenstructuur bedoeld.
 Naast dat ik de door de opdrachtgever gestelde doelen graag wilde behalen wilde ik ook leren coderen in python speciaal voor datascience. Verder wilde ik meer leren over de werking van machine learning en hoe je dit middels verschillende modellen kan toepassen.
@@ -261,17 +261,17 @@ Van mij werd door de opdrachtgever verwacht dat ik samen met mijn projectleden d
 Verder verwachtte ik van mezelf tijdens dit project dat ik goed vanuit huis zou kunnen werken aangezien ik dit ervoor ook gedwongen heb moeten doen met mijn stage. Ook dat ik mijn best zou doen om goede resultaten te halen aangezien ik de opdrachtgever niet teleur wilde stellen.
 Ik vond dat het erg belangrijk was om van te voren alle dataverwerkingen vast te leggen zodat onze stukken python code op elkaar aansluiten en geen fouten maken die de validiteit van de resultaten in gevaar brachten. <br/><br/>
 
-<h5>Actie </h5>
+<h4>Actie </h4>
 Allereerst pakte ik dit project aan door een duidelijke taak verdeling en planning te maken. De groepsleden waren het er mee eens dat een duidelijke planning en taakverdeling vereist was voor het uitvoeren van dit project.
 Ieder groepslid kreeg zijn extra rol en subtaken toegewezen. Verder zijn we begonnen met het aanleren van de technische skills om dit project te kunnen voltooien middels datacamp curssussen. Tegelijk is iedereen begonnen met het uitvoeren van deskresearch opzoek naar peer-reviewed-journals waarin soortgelijke problemen behandeld werden. 
 Toen we uiteindelijk aan de slag gingen met ons eerste model hebben vanaf dat moment het iteratieve proces van choose, train, evaluate en tune model gebruikt. Tijdens het project kwamen we er achter dat we veel focus hadden gelegd op het schrijven van stukken code die onze data transformeerde voor het gebruik in een model en dat we te weinig focus hadden gelegd op het maken van goede features. Als het ware liep ons model tegen een muur aan. Ik voelde me onzeker of we met deze koers nog wel de juiste resultaten zouden halen. Dit werd besproken met de rest van de groep en vanaf dat moment hebben we twee weken vol ingezet op feature engineering. 
 <br/><br/>
 
-<h5>Resultaat</h5> 
+<h4>Resultaat</h4> 
 Uiteindelijk verbeterde onze resultaten enorm waardoor we de voorspellingstijd naar voren hebben kunnen schuiven naar een minuut in plaats van 10 seconden van tevoren. Hierbij gingen onze evaluatie scores wel een stukje naar beneden maar hielden we nog een accuracy score van circa 80% over. We hebben toen nog gewerkt aan een script waarmee het model om de 30 seconden voorspellingen maakte op basis van nieuwe data en dit voorgelegd aan de opdracht gever. De was uiteindelijk erg tevreden met de verbetering en de resultaten. Verder denk ik dat de begeleiders het er ook mee eens zijn dat het goed is dat we uiteindelijk feature engineering de aandacht hebben gegeven die het verdient. 
 <br/><br/>
 
-<h5>Reflectie</h5> 
+<h4>Reflectie</h4> 
 Over het algemeen vond ik dat ik het goed gedaan heb tijdens dit project, vooral om met enige tegen slagen toch de motivatie te vinden om verder te gaan. Ik ben erg tevreden met de uiteindelijk behaalde resultaten. Wel vraag ik me af waar we hadden kunnen eindigen met meer tijd, of als we eerder de focus hadden gelegd op feature engineering. Verder hebben we deep learning buiten de scope gelaten tijdens dit project en vind ik het jammer dat we daar geen ervaring mee heb kunnen op doen. 
 Ik heb tijdens deze minor veel geleerd over coderen in python, niet alleen voor datascience. Na het volgen van deze minor heb ik de werking van verschillende modellen beter leren begrijpen. Ook heb ik geleerd hoe belangrijk feature engineering is in het proces en voor het zorgen van goede resultaten.
 De volgende keer zou ik meer focus leggen op feature engineering daarnaast zou ik ook eerder aan de bel trekken als een experiment het niet waard is om meer tijd in te investeren. Daarvoor heb ik uiteraard de ervaring nodig die ik tijdens dit project opgedaan heb. Dit is het eerste datascience project waarin ik meegewerkt heb en uiteraard heb ik fouten gemaakt waarvan ik geleerd heb. Ook zou het volgen van extra cursussen voor programmeren in python veel tijd hebben kunnen schelen in het efficiënter maken van de code.
@@ -289,7 +289,7 @@ Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skil
 informatie over het aantal presentaties dat ik gegeven heb, intern en extern
 informatie over wat ik gedaan heb aan de paper: discussie, modellen
  
-<h5>Presentaties</h5>
+<h4>Presentaties</h4>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <ul>  
 <li>
@@ -325,7 +325,7 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
      - 18 December: De presentatie aan MomoMedical is gemaakt en gegeven door ... en ik.
 </li>
 </ul>
-<h5>Schrijven van de paper</h5>
+<h4>Schrijven van de paper</h4>
   
 <h2> 10. Python Notebooks </h2>	
 <h2> 11. Scrum backlog tickets </h2> 
