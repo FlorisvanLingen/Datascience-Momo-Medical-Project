@@ -203,26 +203,6 @@ meer te leren over hoe machine learning en cross-validation worden toegepast bij
 Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit project.
 <br/><br/>
 
-
-
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-
 <h4>Literature</h4>
 
 <table>
@@ -237,6 +217,66 @@ tr:nth-child(even) {
     <td>Uitleg over lineaire regressies inclusief voorbeelden</td>
     <td>15-9-2020</td>
     <td>https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2</td>
+  </tr>
+  <tr>
+    <td>Feature Engineering on Date-Time Data</td>
+    <td></td>
+    <td>15-9-2020</td>
+    <td>https://towardsdatascience.com/feature-engineering-on-date-time-data-90f6e954e6b8</td>
+  </tr>
+  <tr>
+    <td>Getting started with Gaussian process regression modeling</td>
+    <td>A quick guide to the theory of Gaussian process regression and in using the scikit-learn GPR package for regression</td>
+    <td>15-9-2020</td>
+    <td>https://towardsdatascience.com/getting-started-with-gaussian-process-regression-modeling-47e7982b534d</td>
+  </tr>
+  <tr>
+    <td>Survival Analysis — Part A</td>
+    <td>An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.</td>
+    <td>15-9-2020</td>
+    <td>https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e</td>
+  </tr>
+  <tr>
+    <td>Data Science Methods and Machine Learning Algorithm Implementations for Customized Pratical Usage</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   </table>
 
