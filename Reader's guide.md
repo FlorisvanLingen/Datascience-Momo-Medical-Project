@@ -39,22 +39,29 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <h5>Deelvragen</h5> 
 <ul>
 <li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
+<ul>
 <li>Wat is een BedSense? (Doel, functie, sensoren)</li> 
 <li>Wat zijn de mogelijkheden qua detectie? (Hartslag, etc.)</li> 
 <li>Wat zijn de beperkingen van de sensoren?</li> 
 <li>Welke mogelijkheden kunnen gebruikt worden voor het algoritme?</li>
+</ul>
 <li>Wat is de kwaliteit van de data die verstreken is door Momo Medical?</li> 
+<ul>
 <li>Aan welke eisen moet de data voldoen om bruikbaar te zijn voor het algoritme?</li> 
 <li>Welke datamanipulaties moeten worden toegepast om de data startklaar te krijgen?</li> 
+</ul>
 <li>Welke algoritmes zijn bruikbaar voor het voorspellen door middel van de data?</li> 
+<ul>
 <li>Wat is een algoritme?</li> 
 <li>Welke variabelen zijn relevant om te gebruiken in het algoritme?</li> 
 <li>Welk algoritme is het beste om te gebruiken voor ons project?</li> 
+</ul>
 <li>Hoe kunnen de false positives en false negatives, voortkomend uit het algoritme, worden teruggedrongen?</li> 
+<ul>
 <li>Hoe worden de false positives en false negatives in termen van het onderzoek gedefinieerd?</li> 
 <li>Wat zijn de mogelijkheden om false positives en false negatives voortkomend uit dit algoritme terug te dringen?</li> 
 </ul>
-
+</ul>
 
 
 
