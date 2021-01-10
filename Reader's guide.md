@@ -32,7 +32,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <br/><br/>
 
 <h2> 3. Onderzoeksvragen </h2>
-<h5>Hoofdvraag</h5> 
+<h4>Hoofdvraag</h4> 
 <ul>
   <li>Wat is het optimale algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
 </ul>
