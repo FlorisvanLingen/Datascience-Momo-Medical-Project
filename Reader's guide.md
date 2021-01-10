@@ -238,45 +238,45 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
   </tr>
   <tr>
     <td>Data Science Methods and Machine Learning Algorithm Implementations for Customized Pratical Usage</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Uitleg over machine learning in een praktische setting.</td>
+    <td>24-9-2020</td>
+    <td>http://easy.squareis.com/http/web.b.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=841f9ecb-447c-4637-a504-628ca6f34ec6%40pdc-v-sessmgr05&____x=1955</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Advanced Sensing and Human Activity Recognition in Early Intervention and Rehabilitation of Elderly People</td>
+    <td>Herkenning menselijke activiteit van ouderen door middel van machine learning. Onder andere zitten staan en liggen.</td>
+    <td>2-10-2020</td>
+    <td>http://easy.squareis.com/https/search.proquest.com/assia/docview/2411052551/E168635B26A54446PQ/8?accountid=27407&____x=1366</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>The Challenges of Data Quality and Data Quality Assessment in the Big Data Era</td>
+    <td>In dit document staat een framework voor het beoordelen van de kwaliteit van data.</td>
+    <td>2-10-2020</td>
+    <td>https://datascience.codata.org/articles/10.5334/dsj-2015-002</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Time Series Machine Learning Regression Framework</td>
+    <td>Website met uitleg over time based machine learning and crossvalidation(heel erg handig voor ons eerste model)</td>
+    <td>6-10-2020</td>
+    <td>https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Complete guide to Python’s cross-validation with examples</td>
+    <td>crossvalidation 2.0</td>
+    <td>14-10-2020</td>
+    <td>https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Visualizing cross-validation behavior in scikit-learn</td>
+    <td>Verschillen in visualisatie tussen scikit-learn modules voor crossvalidation</td>
+    <td>14-10-2020</td>
+    <td>https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html</td>
   </tr>
   <tr>
+    <td>Multiclass model</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>12-11-2020</td>
+    <td>https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02</td>
   </tr>
   </table>
 
