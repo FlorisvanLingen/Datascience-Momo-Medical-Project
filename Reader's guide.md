@@ -295,9 +295,12 @@ Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skil
 <h2> 9. Communicatie <h2>
 informatie over het aantal presentaties dat ik gegeven heb, intern en extern
 informatie over wat ik gedaan heb aan de paper: discussie, modellen
-  
+ 
+<h5>Presentaties</h5>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
 * Week 8 - 27 Oktober: De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
+
+<h5>Schrijven van de paper</h5>
   
 <h2> 10. Python Notebooks </h2>	
 <h2> 11. Scrum backlog tickets </h2> 
