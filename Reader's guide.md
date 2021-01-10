@@ -216,67 +216,67 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
     <td>The Complete Guide to Linear Regression Analysis</td>
     <td>Uitleg over lineaire regressies inclusief voorbeelden</td>
     <td>15-9-2020</td>
-    <td>https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2</td>
+    <td><a href="https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2">Link 1</a></td>
   </tr>
   <tr>
     <td>Feature Engineering on Date-Time Data</td>
     <td></td>
     <td>15-9-2020</td>
-    <td>https://towardsdatascience.com/feature-engineering-on-date-time-data-90f6e954e6b8</td>
+    <td><a href="https://towardsdatascience.com/feature-engineering-on-date-time-data-90f6e954e6b8">Link 2</a></td>
   </tr>
   <tr>
     <td>Getting started with Gaussian process regression modeling</td>
     <td>A quick guide to the theory of Gaussian process regression and in using the scikit-learn GPR package for regression</td>
     <td>15-9-2020</td>
-    <td>https://towardsdatascience.com/getting-started-with-gaussian-process-regression-modeling-47e7982b534d</td>
+    <td><a href="https://towardsdatascience.com/getting-started-with-gaussian-process-regression-modeling-47e7982b534d">Link 3</a></td>
   </tr>
   <tr>
     <td>Survival Analysis — Part A</td>
     <td>An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.</td>
     <td>15-9-2020</td>
-    <td>https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e</td>
+    <td><a href="https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e">Link 4</a></td>
   </tr>
   <tr>
     <td>Data Science Methods and Machine Learning Algorithm Implementations for Customized Pratical Usage</td>
     <td>Uitleg over machine learning in een praktische setting.</td>
     <td>24-9-2020</td>
-    <td>https://www.ceeol.com/search/article-detail?id=894806</td>
+    <td><a href="https://www.ceeol.com/search/article-detail?id=894806">Link 5</a></td>
   </tr>
   <tr>
     <td>Advanced Sensing and Human Activity Recognition in Early Intervention and Rehabilitation of Elderly People</td>
     <td>Herkenning menselijke activiteit van ouderen door middel van machine learning. Onder andere zitten staan en liggen.</td>
     <td>2-10-2020</td>
-    <td>https://link.springer.com/content/pdf/10.1007/s12062-020-09260-z.pdf</td>
+    <td><a href="https://link.springer.com/content/pdf/10.1007/s12062-020-09260-z.pdf">Link 6</a></td>
   </tr>
   <tr>
     <td>The Challenges of Data Quality and Data Quality Assessment in the Big Data Era</td>
     <td>In dit document staat een framework voor het beoordelen van de kwaliteit van data.</td>
     <td>2-10-2020</td>
-    <td>https://datascience.codata.org/articles/10.5334/dsj-2015-002</td>
+    <td><a href="https://datascience.codata.org/articles/10.5334/dsj-2015-002">Link 7</a></td>
   </tr>
   <tr>
     <td>Time Series Machine Learning Regression Framework</td>
     <td>Website met uitleg over time based machine learning and crossvalidation(heel erg handig voor ons eerste model)</td>
     <td>6-10-2020</td>
-    <td>https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a</td>
+    <td><a href="https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a">Link 8</a></td>
   </tr>
   <tr>
     <td>Complete guide to Python’s cross-validation with examples</td>
     <td>crossvalidation 2.0</td>
     <td>14-10-2020</td>
-    <td>https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12</td>
+    <td><a href="https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12">Link 9</a></td>
   </tr>
   <tr>
     <td>Visualizing cross-validation behavior in scikit-learn</td>
     <td>Verschillen in visualisatie tussen scikit-learn modules voor crossvalidation</td>
     <td>14-10-2020</td>
-    <td>https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html</td>
+    <td><a href="https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html">Link 10</a></td>
   </tr>
   <tr>
     <td>Multiclass model</td>
     <td></td>
     <td>12-11-2020</td>
-    <td>https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02</td>
+    <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
   </tr>
   </table>
 
