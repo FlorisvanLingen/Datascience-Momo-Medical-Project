@@ -286,33 +286,33 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
 
 
-<h4>4. Project methoden en planning</h4>
+<h2>4. Project methoden en planning</h2>
   <ul>
     <h6>Methoden</h6>
     <h6>Planning</h6>
   </ul>
 
-<h4>5. Voorbereiding data</h4>
+<h2>5. Voorbereiding data</h2>
   <ul>
-    <h6>5.1. Verkennen data</h6>
-    <h6>5.2. Opschonen data</h6>
-    <h6>5.3. Voorbereiden data</h6>
-    <h6>5.4. Uitleg data</h6>
+    <h4>5.1. Verkennen data</h4>
+    <h4>5.2. Opschonen data</h4>
+    <h4>5.3. Voorbereiden data</h4>
+    <h4>5.4. Uitleg data</h4>
   </ul>
   
-<h4>6. Voorspellende analyse </h4>
+<h2>6. Voorspellende analyse </h2>
 <ul>
-  <h6>6.1. Selectie model</h6>
-  <h6>6.2. Configuratie model</h6>
-  <h6>6.3. Training model</h6>
-  <h6>6.4. Evaluatie model</h6>
-  <h6>6.5. Visualisatie model</h6>
+  <h4>6.1. Selectie model</h4>
+  <h4>6.2. Configuratie model</h4>
+  <h4>6.3. Training model</h4>
+  <h4>6.4. Evaluatie model</h4>
+  <h4>6.5. Visualisatie model</h4>
 </ul>
-<h4>7. Evaluatie </h4>
+<h2>7. Evaluatie </h2>
 
-<h4>8. Conclusie </h4>
+<h2>8. Conclusie </h2>
 
-<h4>9. Reflectie </h4>
+<h2>9. Reflectie </h2>
 
 <h4>Situatie</h4>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
@@ -347,7 +347,7 @@ De volgende keer zou ik meer focus leggen op feature engineering daarnaast zou i
 Ik heb vanuit de groep vooral meegekregen dat ze de samenwerking als erg aangenaam hebben ervaren. Tussendoor hebben we wel Jeanine gehad die ervoor gekozen heeft op te stoppen maar ik ben van mening dat dit niet door de groep komt. Wel heb ik aan het begin als feedback gekregen meer ruimte voor anderen over te laten om hun mening te kunnen geven en dit heb ik vanaf dat punt dan ook gedaan. Ik heb veel meer gevraagd wat anderen ervan vonden en ik heb gemerkt dan sommige groepsleden daardoor ook mondiger werden. 
 Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skills die ik heb geleerd tijdens deze minor, heb ik wel veel geleerd over mezelf tijdens deze projectmatige samenwerking. 
 
-<h4>10. Communicatie</h4>
+<h2>10. Communicatie</h2>
 
 <h4>Presentaties</h4>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
@@ -388,11 +388,11 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <h4>Schrijven van de paper</h4>
 Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken vn feedback op stukken geschreveb door ander egroepsleden.
 
-<h4>11. Pyhton notebooks </h4>
+<h2>11. Pyhton notebooks </h2>
 
-<h4>12. Scrum backlog tickets </h4>
+<h2>12. Scrum backlog tickets </h2>
 
-<h4>13. Andere opdrachten </h4>
+<h2>13. Andere opdrachten </h2>
 
 
 
