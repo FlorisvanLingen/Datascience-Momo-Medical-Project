@@ -51,7 +51,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verplicht gesteld door de opleiding maar deze heb ik gedaan om 
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
 
-<table>
+<table class="fixed">
   <tr>
     <td><details>
 <summary>1.	Introduction to Python</summary>
