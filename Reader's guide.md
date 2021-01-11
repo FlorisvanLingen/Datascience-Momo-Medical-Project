@@ -205,6 +205,12 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 
 <h4>Literature</h4>
 
+<details>
+<summary>Tabel met literatuur</summary>
+
+
+
+
 <table>
   <tr>
     <th>Titel</th>
@@ -279,7 +285,7 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
     <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
   </tr>
   </table>
-
+</details>
 
 
 
