@@ -155,8 +155,8 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python-1.jpg" width="60%"/>
 </details></td>
- </tr>
- </table>
+  </tr>
+</table>
 
 
 
@@ -174,117 +174,112 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <h6>Deelvragen</h6> 
 
 <ul>
-<li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
+  <li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
 <ul>
-<li>Wat is een BedSense? (Doel, functie, sensoren)</li> 
-<li>Wat zijn de mogelijkheden qua detectie? (Hartslag, etc.)</li> 
-<li>Wat zijn de beperkingen van de sensoren?</li> 
-<li>Welke mogelijkheden kunnen gebruikt worden voor het algoritme?</li>
+  <li>Wat is een BedSense? (Doel, functie, sensoren)</li> 
+  <li>Wat zijn de mogelijkheden qua detectie? (Hartslag, etc.)</li> 
+  <li>Wat zijn de beperkingen van de sensoren?</li> 
+  <li>Welke mogelijkheden kunnen gebruikt worden voor het algoritme?</li>
 </ul>
-<li>Wat is de kwaliteit van de data die verstreken is door Momo Medical?</li> 
+  <li>Wat is de kwaliteit van de data die verstreken is door Momo Medical?</li> 
 <ul>
-<li>Aan welke eisen moet de data voldoen om bruikbaar te zijn voor het algoritme?</li> 
-<li>Welke datamanipulaties moeten worden toegepast om de data startklaar te krijgen?</li> 
+  <li>Aan welke eisen moet de data voldoen om bruikbaar te zijn voor het algoritme?</li> 
+  <li>Welke datamanipulaties moeten worden toegepast om de data startklaar te krijgen?</li> 
 </ul>
-<li>Welke algoritmes zijn bruikbaar voor het voorspellen door middel van de data?</li> 
+  <li>Welke algoritmes zijn bruikbaar voor het voorspellen door middel van de data?</li> 
 <ul>
-<li>Wat is een algoritme?</li> 
-<li>Welke variabelen zijn relevant om te gebruiken in het algoritme?</li> 
-<li>Welk algoritme is het beste om te gebruiken voor ons project?</li> 
+  <li>Wat is een algoritme?</li> 
+  <li>Welke variabelen zijn relevant om te gebruiken in het algoritme?</li> 
+  <li>Welk algoritme is het beste om te gebruiken voor ons project?</li> 
 </ul>
-<li>Hoe kunnen de false positives en false negatives, voortkomend uit het algoritme, worden teruggedrongen?</li> 
+  <li>Hoe kunnen de false positives en false negatives, voortkomend uit het algoritme, worden teruggedrongen?</li> 
 <ul>
-<li>Hoe worden de false positives en false negatives in termen van het onderzoek gedefinieerd?</li> 
-<li>Wat zijn de mogelijkheden om false positives en false negatives voortkomend uit dit algoritme terug te dringen?</li> 
+  <li>Hoe worden de false positives en false negatives in termen van het onderzoek gedefinieerd?</li> 
+  <li>Wat zijn de mogelijkheden om false positives en false negatives voortkomend uit dit algoritme terug te dringen?</li> 
 </ul>
 </ul>
 
+  <h4>3.3. Jargon en definities</h4>
 
-<h4>3.3. Jargon en definities</h4>
-
-<h4>3.4. Literatuur</h4>
-
-
-
-
-</ul>
-<details>
-<summary>Tabel met literatuur</summary>
-<table>
-  <tr>
-    <th>Titel</th>
-    <th>Beschrijving</th>
-    <th>Geraadpleegd op</th>
-    <th>URL/Link</th>
-  </tr>
-  <tr>
-    <td>The Complete Guide to Linear Regression Analysis</td>
-    <td>Uitleg over lineaire regressies inclusief voorbeelden</td>
-    <td>15-9-2020</td>
-    <td><a href="https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2">Link 1</a></td>
-  </tr>
-  <tr>
-    <td>Feature Engineering on Date-Time Data</td>
-    <td></td>
-    <td>15-9-2020</td>
-    <td><a href="https://towardsdatascience.com/feature-engineering-on-date-time-data-90f6e954e6b8">Link 2</a></td>
-  </tr>
-  <tr>
-    <td>Getting started with Gaussian process regression modeling</td>
-    <td>A quick guide to the theory of Gaussian process regression and in using the scikit-learn GPR package for regression</td>
-    <td>15-9-2020</td>
-    <td><a href="https://towardsdatascience.com/getting-started-with-gaussian-process-regression-modeling-47e7982b534d">Link 3</a></td>
-  </tr>
-  <tr>
-    <td>Survival Analysis — Part A</td>
-    <td>An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.</td>
-    <td>15-9-2020</td>
-    <td><a href="https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e">Link 4</a></td>
-  </tr>
-  <tr>
-    <td>Data Science Methods and Machine Learning Algorithm Implementations for Customized Pratical Usage</td>
-    <td>Uitleg over machine learning in een praktische setting.</td>
-    <td>24-9-2020</td>
-    <td><a href="https://www.ceeol.com/search/article-detail?id=894806">Link 5</a></td>
-  </tr>
-  <tr>
-    <td>Advanced Sensing and Human Activity Recognition in Early Intervention and Rehabilitation of Elderly People</td>
-    <td>Herkenning menselijke activiteit van ouderen door middel van machine learning. Onder andere zitten staan en liggen.</td>
-    <td>2-10-2020</td>
-    <td><a href="https://link.springer.com/content/pdf/10.1007/s12062-020-09260-z.pdf">Link 6</a></td>
-  </tr>
-  <tr>
-    <td>The Challenges of Data Quality and Data Quality Assessment in the Big Data Era</td>
-    <td>In dit document staat een framework voor het beoordelen van de kwaliteit van data.</td>
-    <td>2-10-2020</td>
-    <td><a href="https://datascience.codata.org/articles/10.5334/dsj-2015-002">Link 7</a></td>
-  </tr>
-  <tr>
-    <td>Time Series Machine Learning Regression Framework</td>
-    <td>Website met uitleg over time based machine learning and crossvalidation(heel erg handig voor ons eerste model)</td>
-    <td>6-10-2020</td>
-    <td><a href="https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a">Link 8</a></td>
-  </tr>
-  <tr>
-    <td>Complete guide to Python’s cross-validation with examples</td>
-    <td>crossvalidation 2.0</td>
-    <td>14-10-2020</td>
-    <td><a href="https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12">Link 9</a></td>
-  </tr>
-  <tr>
-    <td>Visualizing cross-validation behavior in scikit-learn</td>
-    <td>Verschillen in visualisatie tussen scikit-learn modules voor crossvalidation</td>
-    <td>14-10-2020</td>
-    <td><a href="https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html">Link 10</a></td>
-  </tr>
-  <tr>
-    <td>Multiclass model</td>
-    <td></td>
-    <td>12-11-2020</td>
-    <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
-  </tr>
+  <h4>3.4. Literatuur</h4>
+  <details>
+  <summary>Tabel met literatuur</summary>
+  <table>
+    <tr>
+      <th>Titel</th>
+      <th>Beschrijving</th>
+      <th>Geraadpleegd op</th>
+      <th>URL/Link</th>
+    </tr>
+    <tr>
+      <td>The Complete Guide to Linear Regression Analysis</td>
+      <td>Uitleg over lineaire regressies inclusief voorbeelden</td>
+      <td>15-9-2020</td>
+      <td><a href="https://towardsdatascience.com/the-complete-guide-to-linear-regression-analysis-38a421a89dc2">Link 1</a></td>
+    </tr>
+    <tr>
+      <td>Feature Engineering on Date-Time Data</td>
+      <td></td>
+      <td>15-9-2020</td>
+      <td><a href="https://towardsdatascience.com/feature-engineering-on-date-time-data-90f6e954e6b8">Link 2</a></td>
+    </tr>
+    <tr>
+      <td>Getting started with Gaussian process regression modeling</td>
+      <td>A quick guide to the theory of Gaussian process regression and in using the scikit-learn GPR package for regression</td>
+      <td>15-9-2020</td>
+      <td><a href="https://towardsdatascience.com/getting-started-with-gaussian-process-regression-modeling-47e7982b534d">Link 3</a></td>
+    </tr>
+    <tr>
+      <td>Survival Analysis — Part A</td>
+      <td>An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.</td>
+      <td>15-9-2020</td>
+      <td><a href="https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e">Link 4</a></td>
+    </tr>
+    <tr>
+      <td>Data Science Methods and Machine Learning Algorithm Implementations for Customized Pratical Usage</td>
+      <td>Uitleg over machine learning in een praktische setting.</td>
+      <td>24-9-2020</td>
+      <td><a href="https://www.ceeol.com/search/article-detail?id=894806">Link 5</a></td>
+    </tr>
+    <tr>
+      <td>Advanced Sensing and Human Activity Recognition in Early Intervention and Rehabilitation of Elderly People</td>
+      <td>Herkenning menselijke activiteit van ouderen door middel van machine learning. Onder andere zitten staan en liggen.</td>
+      <td>2-10-2020</td>
+      <td><a href="https://link.springer.com/content/pdf/10.1007/s12062-020-09260-z.pdf">Link 6</a></td>
+    </tr>
+    <tr>
+      <td>The Challenges of Data Quality and Data Quality Assessment in the Big Data Era</td>
+      <td>In dit document staat een framework voor het beoordelen van de kwaliteit van data.</td>
+      <td>2-10-2020</td>
+      <td><a href="https://datascience.codata.org/articles/10.5334/dsj-2015-002">Link 7</a></td>
+    </tr>
+    <tr>
+      <td>Time Series Machine Learning Regression Framework</td>
+      <td>Website met uitleg over time based machine learning and crossvalidation(heel erg handig voor ons eerste model)</td>
+      <td>6-10-2020</td>
+      <td><a href="https://towardsdatascience.com/time-series-machine-learning-regression-framework-9ea33929009a">Link 8</a></td>
+    </tr>
+    <tr>
+      <td>Complete guide to Python’s cross-validation with examples</td>
+      <td>crossvalidation 2.0</td>
+      <td>14-10-2020</td>
+      <td><a href="https://towardsdatascience.com/complete-guide-to-pythons-cross-validation-with-examples-a9676b5cac12">Link 9</a></td>
+    </tr>
+    <tr>
+      <td>Visualizing cross-validation behavior in scikit-learn</td>
+      <td>Verschillen in visualisatie tussen scikit-learn modules voor crossvalidation</td>
+      <td>14-10-2020</td>
+      <td><a href="https://scikit-learn.org/stable/auto_examples/model_selection/plot_cv_indices.html">Link 10</a></td>
+    </tr>
+    <tr>
+      <td>Multiclass model</td>
+      <td></td>
+      <td>12-11-2020</td>
+      <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
+    </tr>
   </table>
-</details>
+  </details>
+</ul>
 
 
 
@@ -293,40 +288,33 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
 
 
+<h4>4. Project methoden en planning</h4>
+  <ul>
+    <h6>Methoden</h6>
+    <h6>Planning</h6>
+  </ul>
 
-<h4>evaluation</h4>
+<h4>5. Voorbereiding data</h4>
+  <ul>
+    <h6>5.1. Verkennen data</h6>
+    <h6>5.2. Opschonen data</h6>
+    <h6>5.3. Voorbereiden data</h6>
+    <h6>5.4. Uitleg data</h6>
+  </ul>
+  
+<h4>6. Voorspellende analyse </h4>
+<ul>
+  <h6>6.1. Selectie model</h6>
+  <h6>6.2. Configuratie model</h6>
+  <h6>6.3. Training model</h6>
+  <h6>6.4. Evaluatie model</h6>
+  <h6>6.5. Visualisatie model</h6>
+</ul>
+<h4>7. Evaluatie </h4>
 
-<h4>existing data sets</h4>
+<h4>8. Conclusie </h4>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h2> 3. Voorspellende Modellen </h2>
-
-<h2> 4. Voorbereiding data </h2>
-
-<h2> 5. Data Visualisatie </h2>	
-
-<h2> 6. Data verzameling </h2>	
-
-<h2> 7. Reflectie en Evaluatie </h2>	
+<h4>9. Reflectie </h4>
 
 <h4>Situatie</h4>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
@@ -361,14 +349,7 @@ De volgende keer zou ik meer focus leggen op feature engineering daarnaast zou i
 Ik heb vanuit de groep vooral meegekregen dat ze de samenwerking als erg aangenaam hebben ervaren. Tussendoor hebben we wel Jeanine gehad die ervoor gekozen heeft op te stoppen maar ik ben van mening dat dit niet door de groep komt. Wel heb ik aan het begin als feedback gekregen meer ruimte voor anderen over te laten om hun mening te kunnen geven en dit heb ik vanaf dat punt dan ook gedaan. Ik heb veel meer gevraagd wat anderen ervan vonden en ik heb gemerkt dan sommige groepsleden daardoor ook mondiger werden. 
 Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skills die ik heb geleerd tijdens deze minor, heb ik wel veel geleerd over mezelf tijdens deze projectmatige samenwerking. 
 
-
-
-
-
-
-
-<h2> 8. Diagnostiek van het leerproces </h2>
-<h2> 9. Communicatie <h2>
+<h4>10. Communicatie</h4>
 
 <h4>Presentaties</h4>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
@@ -408,12 +389,12 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 </ul>
 <h4>Schrijven van de paper</h4>
 Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken vn feedback op stukken geschreveb door ander egroepsleden.
-  
-<h2> 10. Python Notebooks </h2>	
 
-<h2> 11. Scrum backlog tickets </h2> 
+<h4>11. Pyhton notebooks </h4>
 
-<h2> 12. Andere opdrachten </h2>
+<h4>12. Scrum backlog tickets </h4>
+
+<h4>13. Andere opdrachten </h4>
 
 
 
