@@ -53,7 +53,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   <br></br>
 
 <table>
-  <tr>
+  <tr style="position:fixed">
     <td width="40%"><details>
 <summary>1.	Introduction to Python</summary>
 <br>
