@@ -162,13 +162,17 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
 
 
-</ul>
 
-<h4>Hoofdvraag</h4> 
+<h4>3.2 Onderzoeksvragen</h4> 
+
+<h6>Hoofdvraag</h6> 
+
 <ul>
   <li>Wat is het optimale algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
 </ul>
-<h4>Deelvragen</h4> 
+
+<h6>Deelvragen</h6> 
+
 <ul>
 <li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
 <ul>
@@ -196,37 +200,14 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 </ul>
 
 
+<h4>3.3. Jargon en definities</h4>
+
+<h4>3.4. Literatuur</h4>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-!!!!The contents of your personal portfolio should reflect your contribution to the project, your abilities and what you have learned!!!!
-
-<h2> 2. Kennis van het domein </h2>	
-Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit project.
-<br/><br/>
-
-<h4>Literatuur</h4>
+</ul>
 <details>
 <summary>Tabel met literatuur</summary>
 <table>
@@ -311,7 +292,7 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 
 
 
-<h4>Jargon</h4>
+
 
 <h4>evaluation</h4>
 
