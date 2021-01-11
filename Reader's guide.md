@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
+
+
+
 # <h1> Datascience-Momo-Medical-Project <h1>
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/Afbeelding1.jpg?raw=true)
   
@@ -403,7 +416,8 @@ Mijn bijdrage aan het schrijven van de paper is de discussie en de methods gewee
 
 
 
-
+</body>
+</html>
 
 
 
