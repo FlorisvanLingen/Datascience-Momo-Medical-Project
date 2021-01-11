@@ -54,7 +54,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
 
 
-thead, tbody, tr, td, th { display: block; }
+
 
 
 <tablestyle="table-layout: fixed; width: 100%;">
