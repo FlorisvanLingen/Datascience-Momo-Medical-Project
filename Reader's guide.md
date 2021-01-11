@@ -25,11 +25,12 @@
     <ul><h5>6.5. Visualisatie model</h5></ul>
   <h5> 7. Evaluatie </h5>	
   <h5> 8. Conclusie </h5>	
-  <h5> 9. Reflectie  </h5>
-  <h5> 10. Communicatie <h5>
-  <h5> 11. Python Notebooks </h5>	
-  <h5> 12. Scrum backlog tickets </h5> 
-  <h5> 13. Andere opdrachten </h5>
+  <h5> 9. Discussie </h5>	
+  <h5> 10. Reflectie  </h5>
+  <h5> 11. Communicatie <h5>
+  <h5> 12. Python Notebooks </h5>	
+  <h5> 13. Scrum backlog tickets </h5> 
+  <h5> 14. Andere opdrachten </h5>
 
 <h2> 1. Inleiding </h2>
 Valongevallen bij ouderen is een groot probleem. Volgens het CBS bezochten 108.000 65-plussers in 2018 een spoedeisende-hulpafdeling, hierna SEH, ten gevolge van een valongeval. Dit betekent dat per 100.000 65-plussers 3.320 een SEH hebben bezocht na een valongeval. Van alle bezoeken aan de SEH werd 33% opgenomen in het ziekenhuis in 2017. Naast het aantal ziekenhuis opnames is de sterfte van ouderen ten gevolge van een val een reëel probleem. Volgens het CBS overleden in 2018 4.396 65-plusser als gevolg van een val. Hierdoor was in 2018 een val de nummer één doodsoorzaak bij dodelijke ongevallen bij 65-plussers, namelijk 89% (CBS, 2019). 
@@ -324,11 +325,11 @@ As such our team cannot say that this is the most optimal algorithm that can pre
 With further research better results should be feasible, this could be achieved using the piezoelectrical sensors for heartrate and deep learning as is noted down below in more detail.
 
 
+<h2>9. Discussie </h2>
 
 
 
-
-<h2>9. Reflectie </h2>
+<h2>10. Reflectie </h2>
 
 <h4>Situatie</h4>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
@@ -363,7 +364,7 @@ De volgende keer zou ik meer focus leggen op feature engineering daarnaast zou i
 Ik heb vanuit de groep vooral meegekregen dat ze de samenwerking als erg aangenaam hebben ervaren. Tussendoor hebben we wel Jeanine gehad die ervoor gekozen heeft op te stoppen maar ik ben van mening dat dit niet door de groep komt. Wel heb ik aan het begin als feedback gekregen meer ruimte voor anderen over te laten om hun mening te kunnen geven en dit heb ik vanaf dat punt dan ook gedaan. Ik heb veel meer gevraagd wat anderen ervan vonden en ik heb gemerkt dan sommige groepsleden daardoor ook mondiger werden. 
 Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skills die ik heb geleerd tijdens deze minor, heb ik wel veel geleerd over mezelf tijdens deze projectmatige samenwerking. 
 
-<h2>10. Communicatie</h2>
+<h2>11. Communicatie</h2>
 
 <h4>Presentaties</h4>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
@@ -404,11 +405,11 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <h4>Schrijven van de paper</h4>
 Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken vn feedback op stukken geschreveb door ander egroepsleden.
 
-<h2>11. Pyhton notebooks </h2>
+<h2>12. Pyhton notebooks </h2>
 
-<h2>12. Scrum backlog tickets </h2>
+<h2>13. Scrum backlog tickets </h2>
 
-<h2>13. Andere opdrachten </h2>
+<h2>14. Andere opdrachten </h2>
 
 
 
