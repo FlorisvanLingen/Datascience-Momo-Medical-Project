@@ -159,7 +159,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <h6>Hoofdvraag</h6> 
 
 <ul>
-  <li>Wat is het optimale algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
+  <li>Wat is het optimale machine learning algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
 </ul>
 
 <h6>Deelvragen</h6> 
