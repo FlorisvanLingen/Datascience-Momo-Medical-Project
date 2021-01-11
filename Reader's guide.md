@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
-
-
-
 # <h1> Datascience-Momo-Medical-Project <h1>
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/Afbeelding1.jpg?raw=true)
   
@@ -70,18 +57,16 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
 
 
-<tablestyle="table-layout: fixed; width: 100%;">
-  <tr>
-    <td width="40%"><details>
+<details>
 <summary>1.	Introduction to Python</summary>
 <br>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="60%">
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
 </details>
 
 <details>
 <summary>2.	Intermediate Python</summary>
 <br>
-<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="60%">
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="30%">
 </details>
 
 <details>
@@ -125,8 +110,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python-1.jpg  " width="60%"/>
 </details>
-</td>
- <td width="40%"><details>
+
 <summary>10.	Merging DataFrames with pandas</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas-1.jpg  " width="60%"/>
@@ -173,8 +157,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python-1.jpg" width="60%"/>
 </details></td>
-  </tr>
-</table>
+
 
 
 
