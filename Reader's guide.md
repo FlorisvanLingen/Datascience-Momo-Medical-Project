@@ -51,25 +51,13 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verplicht gesteld door de opleiding maar deze heb ik gedaan om 
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
   <br></br>
- <body>
- <div style="width: 100%;">
-        <div style="width: 50%; height: 100px; float: left; background: green;"> 
-            Left Div 
-        </div>
-        <div style="margin-left: 50%; height: 100px; background: blue;"> 
-            Right Div
-        </div>
-    </div>
- </body>
-
-
 
 <details>
 <summary>1.	Introduction to Python</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
-</details>
-<details>
+</details><details>
+
 <summary>2.	Intermediate Python</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/2.%20certificate%20-%20Intermediate%20Python-1.jpg" width="30%">
