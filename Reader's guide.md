@@ -5,14 +5,27 @@
 
 <h2> Inhoudsopgave </h2>
   <h5> 1. Inleiding </h5>
-  <h5> 2. Datacamp cursussen </h5>
+  <h5> 2. Introductie </h5>
   <h5> 3. Kennis van het domein </h5>	
-  <h5> 4. Voorspellende Modellen </h5>
+    <ul>3.1. Onderzoeksvragen</ul>
+    <ul>3.2. Jargon en definities</ul>
+    <ul>3.3. Literatuur</ul>
+    <ul>3.4. Datacamp cursussen</ul>
+  <h5> 4. project Methoden en planning </h5>
   <h5> 5. Voorbereiding data </h5>
-  <h5> 6. Data Visualisatie </h5>	
-  <h5> 7. Data verzameling </h5>	
-  <h5> 8. Evaluatie </h5>	
-  <h5> 9. Diagnostiek van het leerproces </h5>
+    <ul>5.1. Verkennen data</ul>
+    <ul>5.2. Opschonen data</ul>
+    <ul>5.3. Voorbereiden data</ul>
+    <ul>5.4. Uitleg data </ul>
+  <h5> 6. Voorspellende analyse </h5>	
+  <ul>6.1. Selectie model</ul>
+  <ul>6.2. Configuratie model</ul>
+  <ul>6.3. Training model </ul>
+  <ul>6.4. Evaluatie model</ul>
+  <ul>6.5. Visualisatie model</ul>
+  <h5> 7. Evaluatie </h5>	
+  <h5> 8. Conclusie </h5>	
+  <h5> 9. Reflectie  </h5>
   <h5> 10. Communicatie <h5>
   <h5> 11. Python Notebooks </h5>	
   <h5> 12. Scrum backlog tickets </h5> 
