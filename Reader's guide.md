@@ -154,17 +154,6 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 </details></td>
 
 
-|                |                |                |                |                |
-| -------------- | -------------- | -------------- | -------------- | -------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 | Row 1 Column 4 | Row 1 Column 5 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 | Row 2 Column 4 | Row 2 Column 5 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 | Row 3 Column 4 | Row 3 Column 5 |
-| Row 4 Column 1 | Row 4 Column 2 | Row 4 Column 3 | Row 4 Column 4 | Row 4 Column 5 |
-| Row 5 Column 1 | Row 5 Column 2 | Row 5 Column 3 | Row 5 Column 4 | Row 5 Column 5 |
-
-
-
-
 <h4>3.2 Onderzoeksvragen</h4> 
 
 <h6>Hoofdvraag</h6> 
