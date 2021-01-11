@@ -52,6 +52,11 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
   <br></br>
 
+
+
+thead, tbody, tr, td, th { display: block; }
+
+
 <table>
   <tr height="40%">
     <td width="40%"><details>
