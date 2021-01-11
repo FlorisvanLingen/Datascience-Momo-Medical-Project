@@ -50,9 +50,13 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   Om een goede beoordeling te krijgen voor het "Datacamp" gedeelte van de verplichte criterea is het afronden van 90 procent van de curssussen vereist.
   Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verplicht gesteld door de opleiding maar deze heb ik gedaan om 
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
-  
-<br/><br/>
 
+<table>
+  <tr>
+    <td>Titel</td>
+    <td>Beschrijving</td>
+ </tr>
+ </table>
 
 
 <details>
