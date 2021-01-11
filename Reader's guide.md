@@ -314,9 +314,13 @@ Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit projec
 
 
 <h2> 3. Voorspellende Modellen </h2>
+
 <h2> 4. Voorbereiding data </h2>
+
 <h2> 5. Data Visualisatie </h2>	
+
 <h2> 6. Data verzameling </h2>	
+
 <h2> 7. Reflectie en Evaluatie </h2>	
 
 <h4>Situatie</h4>
@@ -360,15 +364,13 @@ Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skil
 
 <h2> 8. Diagnostiek van het leerproces </h2>
 <h2> 9. Communicatie <h2>
-informatie over het aantal presentaties dat ik gegeven heb, intern en extern
-informatie over wat ik gedaan heb aan de paper: discussie, modellen
- 
+
 <h4>Presentaties</h4>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <ul>  
 <li>
 <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%206.pptx">Week 6</a>
-- 05 Oktober  : De interne presentatie is gemaakt en gegeven mij.
+- 05 Oktober  : De interne presentatie is gemaakt en gegeven door mij.
 </li>
 <li> 
   <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%208.pptx">Week 8</a>
@@ -400,9 +402,12 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 </li>
 </ul>
 <h4>Schrijven van de paper</h4>
+Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken vn feedback op stukken geschreveb door ander egroepsleden.
   
 <h2> 10. Python Notebooks </h2>	
+
 <h2> 11. Scrum backlog tickets </h2> 
+
 <h2> 12. Andere opdrachten </h2>
 
 
