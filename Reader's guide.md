@@ -202,8 +202,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   <h4>3.3. Jargon en definities</h4>
 
   <h4>3.4. Literatuur</h4>
-  <details>
-  <summary>Tabel met literatuur</summary>
+  
   <table>
     <tr>
       <th>Titel</th>
@@ -278,8 +277,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
       <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
     </tr>
   </table>
-  </details>
-</ul>
+ </ul>
 
 
 
