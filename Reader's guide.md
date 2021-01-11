@@ -372,7 +372,7 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 </li>
 <li> 
   <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%208.pptx">Week 8</a>
-    - 27 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
+    - 23 Oktober  : De externe presentatie is gemaakt en gegeven door Nick, Roy en ik.
 </li>
 <li>
   <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Presentations/Week%209.pptx">Week 9</a>
