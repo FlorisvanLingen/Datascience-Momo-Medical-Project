@@ -53,13 +53,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
 <table>
   <tr>
-    <td>Titel</td>
-    <td>Beschrijving</td>
- </tr>
- </table>
-
-
-<details>
+    <td><details>
 <summary>1.	Introduction to Python</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
@@ -112,8 +106,8 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python-1.jpg  " width="30%"/>
 </details>
-
-<details>
+</td>
+ <td><details>
 <summary>10.	Merging DataFrames with pandas</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas-1.jpg  " width="30%"/>
@@ -159,7 +153,14 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <summary>17.	Machine Learning for Time Series Data in Python</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python-1.jpg" width="30%"/>
-</details>
+</details></td>
+ </tr>
+ </table>
+
+
+
+
+
 </ul>
 
 <h4>Hoofdvraag</h4> 
