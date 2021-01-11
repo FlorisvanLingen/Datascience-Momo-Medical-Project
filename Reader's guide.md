@@ -52,7 +52,14 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
   <br></br>
 
-
+ <div style="width: 100%;">
+        <div style="width: 50%; height: 100px; float: left; background: green;"> 
+            Left Div 
+        </div>
+        <div style="margin-left: 50%; height: 100px; background: blue;"> 
+            Right Div
+        </div>
+    </div>
 
 
 
