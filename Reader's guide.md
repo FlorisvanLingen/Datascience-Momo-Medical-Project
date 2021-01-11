@@ -203,14 +203,9 @@ meer te leren over hoe machine learning en cross-validation worden toegepast bij
 Hieronder worden alle bronnen weergegeven die ik heb gevonden tijdens dit project.
 <br/><br/>
 
-<h4>Literature</h4>
-
+<h4>Literatuur</h4>
 <details>
 <summary>Tabel met literatuur</summary>
-
-
-
-
 <table>
   <tr>
     <th>Titel</th>
