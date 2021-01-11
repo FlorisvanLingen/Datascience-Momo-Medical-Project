@@ -51,7 +51,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verplicht gesteld door de opleiding maar deze heb ik gedaan om 
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
   <br></br>
-
+ <body>
  <div style="width: 100%;">
         <div style="width: 50%; height: 100px; float: left; background: green;"> 
             Left Div 
@@ -60,7 +60,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
             Right Div
         </div>
     </div>
-
+ </body>
 
 
 
