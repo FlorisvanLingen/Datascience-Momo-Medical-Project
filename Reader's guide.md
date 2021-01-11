@@ -193,6 +193,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
   <h4>3.3. Jargon en definities</h4>
   
+  daily standup
   
 
   <h4>3.4. Literatuur</h4>
@@ -283,8 +284,9 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <h2>4. Project methoden en planning</h2>
   <ul>
     <h6>Methoden</h6>
+Tijdens dit project hebben we gewerkt volgens de scrum methode. Onze sprints waren elk twee weken lang waarbij er elke dag een dailystandup is gehouden. Hierbij vertelde ieder projectlid om beurten wat hij of zij had gedaan. Ook werd er dan verteld waar tegenaangelopen was en wat hij of zij ging doen de komende dag. Verder hebben we na elke sprint een sprint review/retrospective gehouden. Dit hebben we gedaan om de problemen tijdens vorige sprints te voorkomen en de samenwerking te verbeteren.
     <h6>Planning</h6>
-    
+Hieronder is een link te vinden naar onze globale planning die wij aan het begin van het project hebben opgesteld. Uiteindelijk heeft deze ons erg veel geholpen in het scherp houden van de scope.
   <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/planning%20(2).xlsx">Link naar planning.xlsx</a>
   </ul>
 
@@ -400,7 +402,7 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 </li>
 </ul>
 <h4>Schrijven van de paper</h4>
-Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken vn feedback op stukken geschreveb door ander egroepsleden.
+Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken van feedback op stukken geschreveb door ander egroepsleden.
 
 <h2>12. Pyhton notebooks </h2>
 
