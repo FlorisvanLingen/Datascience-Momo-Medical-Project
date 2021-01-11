@@ -52,9 +52,9 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
 
 
-<table style="width:100%">
+<table>
   <tr>
-    <td><details>
+    <td width="40%"><details>
 <summary>1.	Introduction to Python</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/1.%20certificate%20-%20introduction%20to%20python-1.jpg" width="30%">
@@ -108,7 +108,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python-1.jpg  " width="30%"/>
 </details>
 </td>
- <td><details>
+ <td width="40%"><details>
 <summary>10.	Merging DataFrames with pandas</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas-1.jpg  " width="30%"/>
