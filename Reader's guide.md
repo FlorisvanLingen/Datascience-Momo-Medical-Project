@@ -284,6 +284,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   <ul>
     <h6>Methoden</h6>
     <h6>Planning</h6>
+    ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/Planning.PNG?raw=true)
   </ul>
 
 <h2>5. Voorbereiding data</h2>
