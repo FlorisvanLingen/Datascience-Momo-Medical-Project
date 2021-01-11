@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" type="text/css" media="all" href="style.css" />
-</head>
 # <h1> Datascience-Momo-Medical-Project <h1>
 ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/Afbeelding1.jpg?raw=true)
   
