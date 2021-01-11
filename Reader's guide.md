@@ -5,7 +5,7 @@
 
 <h2> Inhoudsopgave </h2>
   <h5> 1. Inleiding </h5>
-  <h5> 2. Introductie </h5>
+  <h5> 2. Doelstelling </h5>
   <h5> 3. Kennis van het domein </h5>	
     <ul><h5>3.1. Datacamp cursussen</h5></ul>
     <ul><h5>3.2. Onderzoeksvragen</h5></ul>
@@ -44,45 +44,13 @@ Het doel van dit onderzoek is dat een algoritme voor Momo Medical wordt ontwikke
 Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er in minder dan 23,4% van de totale signalen wanneer iemand op zijn bed gaat zitten gaat iemand ook weer liggen. In andere woorden betekent dit dat 76,6% van de signalen correct zijn. Het is ons doel om in de nieuwe situatie dit percentage omlaag te krijgen. 
 <br/><br/>
 
-<h2> 3. Onderzoeksvragen </h2>
-<h4>Hoofdvraag</h4> 
-<ul>
-  <li>Wat is het optimale algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
-</ul>
-<h4>Deelvragen</h4> 
-<ul>
-<li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
-<ul>
-<li>Wat is een BedSense? (Doel, functie, sensoren)</li> 
-<li>Wat zijn de mogelijkheden qua detectie? (Hartslag, etc.)</li> 
-<li>Wat zijn de beperkingen van de sensoren?</li> 
-<li>Welke mogelijkheden kunnen gebruikt worden voor het algoritme?</li>
-</ul>
-<li>Wat is de kwaliteit van de data die verstreken is door Momo Medical?</li> 
-<ul>
-<li>Aan welke eisen moet de data voldoen om bruikbaar te zijn voor het algoritme?</li> 
-<li>Welke datamanipulaties moeten worden toegepast om de data startklaar te krijgen?</li> 
-</ul>
-<li>Welke algoritmes zijn bruikbaar voor het voorspellen door middel van de data?</li> 
-<ul>
-<li>Wat is een algoritme?</li> 
-<li>Welke variabelen zijn relevant om te gebruiken in het algoritme?</li> 
-<li>Welk algoritme is het beste om te gebruiken voor ons project?</li> 
-</ul>
-<li>Hoe kunnen de false positives en false negatives, voortkomend uit het algoritme, worden teruggedrongen?</li> 
-<ul>
-<li>Hoe worden de false positives en false negatives in termen van het onderzoek gedefinieerd?</li> 
-<li>Wat zijn de mogelijkheden om false positives en false negatives voortkomend uit dit algoritme terug te dringen?</li> 
-</ul>
-</ul>
+<h2> 3. Kennis van het domein </h2>
 
-
-
-
-<h2> 2. Datacamp cursussen </h2>
-Om een goede beoordeling te krijgen voor het "Datacamp" gedeelte van de verplichte criterea is het afronden van 90 procent van de curssussen vereist.
-Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verplicht gesteld door de opleiding maar deze heb ik gedaan om 
-meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
+  <ul><h4> 3.1 Datacamp cursussen </h4>
+  Om een goede beoordeling te krijgen voor het "Datacamp" gedeelte van de verplichte criterea is het afronden van 90 procent van de curssussen vereist.
+  Hieronder zijn de zeventien Datacamp cursussen weergegeven die ik heb afgerond. Hiervan is 1 cursus niet verplicht gesteld door de opleiding maar deze heb ik gedaan om 
+  meer te leren over hoe machine learning en cross-validation worden toegepast bij tijdseriesmodellen.
+  
 <br/><br/>
 
 
@@ -188,6 +156,42 @@ meer te leren over hoe machine learning en cross-validation worden toegepast bij
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/17.%20certificate%20-%20Machine%20Learning%20for%20Time%20Series%20Data%20in%20Python-1.jpg" width="30%"/>
 </details>
+</ul>
+
+<h4>Hoofdvraag</h4> 
+<ul>
+  <li>Wat is het optimale algoritme die kan voorspellen dat een patiënt diens bed verlaat, met behulp van verzamelde data van de BedSense (versie 9) sensor van Momo Medical</li>
+</ul>
+<h4>Deelvragen</h4> 
+<ul>
+<li>Wat zijn de mogelijkheden en beperkingen van de BedSense versie 9?</li> 
+<ul>
+<li>Wat is een BedSense? (Doel, functie, sensoren)</li> 
+<li>Wat zijn de mogelijkheden qua detectie? (Hartslag, etc.)</li> 
+<li>Wat zijn de beperkingen van de sensoren?</li> 
+<li>Welke mogelijkheden kunnen gebruikt worden voor het algoritme?</li>
+</ul>
+<li>Wat is de kwaliteit van de data die verstreken is door Momo Medical?</li> 
+<ul>
+<li>Aan welke eisen moet de data voldoen om bruikbaar te zijn voor het algoritme?</li> 
+<li>Welke datamanipulaties moeten worden toegepast om de data startklaar te krijgen?</li> 
+</ul>
+<li>Welke algoritmes zijn bruikbaar voor het voorspellen door middel van de data?</li> 
+<ul>
+<li>Wat is een algoritme?</li> 
+<li>Welke variabelen zijn relevant om te gebruiken in het algoritme?</li> 
+<li>Welk algoritme is het beste om te gebruiken voor ons project?</li> 
+</ul>
+<li>Hoe kunnen de false positives en false negatives, voortkomend uit het algoritme, worden teruggedrongen?</li> 
+<ul>
+<li>Hoe worden de false positives en false negatives in termen van het onderzoek gedefinieerd?</li> 
+<li>Wat zijn de mogelijkheden om false positives en false negatives voortkomend uit dit algoritme terug te dringen?</li> 
+</ul>
+</ul>
+
+
+
+
 
 
 
