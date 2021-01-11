@@ -57,8 +57,8 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 thead, tbody, tr, td, th { display: block; }
 
 
-<table>
-  <tr height="40%">
+<tablestyle="table-layout: fixed; width: 100%;">
+  <tr>
     <td width="40%"><details>
 <summary>1.	Introduction to Python</summary>
 <br>
