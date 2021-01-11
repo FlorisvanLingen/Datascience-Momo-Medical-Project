@@ -111,6 +111,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/9.%20certificate%20-%20Cleaning%20Data%20in%20Python-1.jpg  " width="60%"/>
 </details>
 
+<details>
 <summary>10.	Merging DataFrames with pandas</summary>
 <br>
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Datacamp-accomplishments/10.%20certificate%20-%20Merging%20DataFrames%20with%20pandas-1.jpg  " width="60%"/>
