@@ -308,6 +308,16 @@ Hieronder is een link te vinden naar onze globale planning die wij aan het begin
 </ul>
 <h2>7. Evaluatie </h2>
 
+Recommendations
+There are a few recommendations that can be made for further research in order to improve the current model and its features. These are:
+·	Piezoelectric sensors for heartrate
+·	Deep learning neural networks
+Piezoelectric sensors for heartrate:
+It is possible to use the piezoelectric sensors on the device to filter out the heartrate of patient[8][9], this is valuable data for the heartrate of a sleeping person is different between stages of sleep and being awake. Being able to use the piezoelectric sensor data to map the heartrate of a person could prove valuable in correctly predict when a patient is leaving or planning to leave their bed at an earlier time then the current minute.
+ 
+Deep learning neural networks:
+The data format used for our machine learning algorithm can benefit from the ability a deep learning neural network provides. Neural networks can make use of more data and doesn’t require the data to be structured. With the sheer amount of data that could potentially be given for predictions, all sensor data per time interval of ~100ms which is the time interval for measurements from the used FSR sensor. Using this data, we expect that a neural network would be the way to proceed on a larger scale in order to make predictions on the more minute movements within a time period of the last few minutes.
+
 
 
 
