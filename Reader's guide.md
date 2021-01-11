@@ -192,6 +192,8 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 </ul>
 
   <h4>3.3. Jargon en definities</h4>
+  
+  
 
   <h4>3.4. Literatuur</h4>
   
