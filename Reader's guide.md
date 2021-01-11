@@ -7,22 +7,22 @@
   <h5> 1. Inleiding </h5>
   <h5> 2. Introductie </h5>
   <h5> 3. Kennis van het domein </h5>	
-    <ul>3.1. Onderzoeksvragen</ul>
-    <ul>3.2. Jargon en definities</ul>
-    <ul>3.3. Literatuur</ul>
-    <ul>3.4. Datacamp cursussen</ul>
+    <ul><h5>3.1. Datacamp cursussen</h5></ul>
+    <ul><h5>3.2. Onderzoeksvragen</h5></ul>
+    <ul><h5>3.3. Jargon en definities</h5></ul>
+    <ul><h5>3.4. Literatuur</h5></ul>
   <h5> 4. project Methoden en planning </h5>
   <h5> 5. Voorbereiding data </h5>
-    <ul>5.1. Verkennen data</ul>
-    <ul>5.2. Opschonen data</ul>
-    <ul>5.3. Voorbereiden data</ul>
-    <ul>5.4. Uitleg data </ul>
+    <ul><h5>5.1. Verkennen data</h5></ul>
+    <ul><h5>5.2. Opschonen data</h5></ul>
+    <ul><h5>5.3. Voorbereiden data</h5></ul>
+    <ul><h5>5.4. Uitleg data </h5></ul>
   <h5> 6. Voorspellende analyse </h5>	
-  <ul>6.1. Selectie model</ul>
-  <ul>6.2. Configuratie model</ul>
-  <ul>6.3. Training model </ul>
-  <ul>6.4. Evaluatie model</ul>
-  <ul>6.5. Visualisatie model</ul>
+    <ul><h5>6.1. Selectie model</h5></ul>
+    <ul><h5>6.2. Configuratie model</h5></ul>
+    <ul><h5>6.3. Training model</h5></ul>
+    <ul><h5>6.4. Evaluatie model</h5></ul>
+    <ul><h5>6.5. Visualisatie model</h5></ul>
   <h5> 7. Evaluatie </h5>	
   <h5> 8. Conclusie </h5>	
   <h5> 9. Reflectie  </h5>
