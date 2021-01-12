@@ -23,15 +23,12 @@
     <ul><h5>6.3. Training model</h5></ul>
     <ul><h5>6.4. Evaluatie model</h5></ul>
     <ul><h5>6.5. Visualisatie model</h5></ul>
-  	
   <h5> 7. Conclusie </h5>	
-  <h5> 8. Discussie </h5>	
-  <h5> 9. Reflectie  </h5>
-  <h5> 10. Evaluatie </h5>
-  <h5> 11. Communicatie <h5>
-  <h5> 12. Python Notebooks </h5>	
-  <h5> 13. Scrum backlog tickets </h5> 
-  <h5> 14. Andere opdrachten </h5>
+  <h5> 8. Reflectie  </h5>
+  <h5> 9. Evaluatie </h5>
+  <h5> 10. Communicatie <h5>
+  <h5> 11. Scrum backlog tickets </h5> 
+
 
 <h2> 1. Inleiding </h2>
 Valongevallen bij ouderen is een groot probleem. Volgens het CBS bezochten 108.000 65-plussers in 2018 een spoedeisende-hulpafdeling, hierna SEH, ten gevolge van een valongeval. Dit betekent dat per 100.000 65-plussers 3.320 een SEH hebben bezocht na een valongeval. Van alle bezoeken aan de SEH werd 33% opgenomen in het ziekenhuis in 2017. Naast het aantal ziekenhuis opnames is de sterfte van ouderen ten gevolge van een val een reëel probleem. Volgens het CBS overleden in 2018 4.396 65-plusser als gevolg van een val. Hierdoor was in 2018 een val de nummer één doodsoorzaak bij dodelijke ongevallen bij 65-plussers, namelijk 89% (CBS, 2019). 
@@ -214,11 +211,11 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
     <tr> <TD>Sampling frequentie</td> <td></td></tr>
     <tr> <TD>unix-tij</td> <td></td></tr>
     <tr> <TD>dataframe</td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
+    <tr> <TD>overfittingtd></tr>
+    <tr> <TD>underfittingtd></tr>
+    <tr> <TD>accuracy></td></tr>
+    <tr> <TD>precision</td> <td></td></tr>
+    <tr> <TD>recall</td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
@@ -341,13 +338,6 @@ Hieronder is een link te vinden naar onze globale planning die wij aan het begin
   
 De dataset aangeleverd door MomoMedical bestaat uit circa 12539 csv bestanden. Deze is door middel van FileZilla met Linux commands opgesplitst in een training en validatie    set bestaande uit 11346 csv bestanden en een evaluatie set van 1193 csv bestanden. Er is gekozen om week vijf als evaluatie set te gebruiken aangezien deze de kleinste in        omvang is en ongeveer 10% uit van de gehele aangeleverde dataset uitmaakt. Deze dataset is niet aangeraakt tot de laatste versie van het model bekend was.
 Later hebben we ook nog een extra dataset aangeleverd gekregen met daarin 102 csv bestanden dit de data van 24uur. Deze was opgestuurd door MomoMedical zodat wij om de 30 seconden voorspellingen konden maken op data die het model nog niet gezien had.
-(foto van de csv files)
-
-De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
-<br></br>
-(link https://link.springer.com/article/10.1007/s41066-017-0049-2)
-<br></br>
-Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen.
 <br></br>
 Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun sensorplaat, deze maakt gebruik van drie typen sensoren voor het verzamelen van de data. Deze zijn hieronder in de tabel weergegeven.
 <br></br>
@@ -400,7 +390,7 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
   <h4>6.1. Selectie model</h4>
   
   
-  Voor het eerste model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Dit is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is is het volgende onderzoek:
+  Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Dit is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is is het volgende onderzoek:
    <br></br>
 Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Data Classification. International Journal of Advanced Research in Computer Engineering & Technology, 1(10), 185–189. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
 K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. 
@@ -409,9 +399,19 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
 
 
   <h4>6.2. Configuratie model</h4>
+  
   <h4>6.3. Training model</h4>
+  Voor het trainen van het uiteindelijke model is er gebruik gemaakt van de bovenstaande featureset.  
+  De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
+<br></br>
+(link https://link.springer.com/article/10.1007/s41066-017-0049-2)
+<br></br>
+Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit balans kan zijn zoals beschrveen in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
+  
   <h4>6.4. Evaluatie model</h4>
+  
   <h4>6.5. Visualisatie model</h4>
+  
 </ul>
 
 
@@ -426,16 +426,7 @@ Optimaal voor ons team betekende de volgende twee dingen:
 De belangrijkste conclusie is dat het optimale algoritme dat werd gevonden een lineaire supportsvectormachine was. Met dit als basis is het nu mogelijk om te voorspellen dat patiënten 1 minuut voordat ze uit bed komen uit bed komen. Het huidige model dat deze selectie van functies gebruikt, produceert gemiddeld het minste aantal fout-positieven en fout-negatieven.
 
 
-
-
-
-
-
-<h2>8. Discussie???? </h2>
-
-
-
-<h2>9. Reflectie </h2>
+<h2>8. Reflectie </h2>
 
 <h4>Situatie</h4>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
@@ -472,7 +463,7 @@ Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skil
 
 
 
-<h2>10. Evaluatie </h2>
+<h2>9. Evaluatie </h2>
 
 Er zijn een aantal belangrijke aanbevelingen die gemaakt kunnen worden voor toekomstig onderzoek om het huidige model en de bijbehorende features te verbeteren. Deze aanbevelingen zijn:
 Piëzo elektrische sensoren gebruiken voor het meten van de hartslag en dit gebruiken als feature
@@ -485,7 +476,7 @@ De manier waarop de data geleverd is leent zich ook heel erg voor het gebruik va
 
 
 
-<h2>11. Communicatie</h2>
+<h2>10. Communicatie</h2>
 
 <h4>Presentaties</h4>
 Hieronder staan de presentaties waar ik aan bij heb gedragen:
@@ -526,11 +517,9 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 <h4>Schrijven van de paper</h4>
 Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken van feedback op stukken geschreveb door ander egroepsleden.
 
-<h2>12. Pyhton notebooks </h2>
+<h2>11. Scrum backlog tickets </h2>
 
-<h2>13. Scrum backlog tickets </h2>
 
-<h2>14. Andere opdrachten </h2>
 
 
 
