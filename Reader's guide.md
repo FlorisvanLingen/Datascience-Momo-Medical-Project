@@ -354,9 +354,9 @@ Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun s
 <br></br>
 <table>
     <tr><th>Sensor type</th><th>Hoeveelheid</th><th>Sampling frequentie</th><th>Beschrijving</th></tr>
-    <tr><td>Force sensingresistors (FSR)</td><td>8</td>10HZ <td>Deze sensoren worden gebruikt evoor het meten van de druk op acht locaties op de sensorplaat. </td></tr>
-    <tr><td>Piezoelectric sensors (PE)</td><td>6</td>120HZ <td>Deze sensoren meten vibraties, er zijn zes sensoren verspreid over de sensorplaat.</td></tr>
-    <tr><td>Accelerometer (PE)</td>1 <td>10HZ</td>Deze sensor meet de versnellig en beweging van de sensorplaat. Deze wordt gebruikt om de orientatie van de sensorplaat te bepalen</tr>
+    <tr><td>Force sensingresistors (FSR)</td> <td>8</td> <td>10HZ</td> <td>Deze sensoren worden gebruikt evoor het meten van de druk op acht locaties op de sensorplaat. </td></tr>
+  <tr><td>Piezoelectric sensors (PE)</td> <td>6</td> <td>120HZ</td> <td>Deze sensoren meten vibraties, er zijn zes sensoren verspreid over de sensorplaat.</td></tr>
+  <tr><td>Accelerometer (PE)</td> <td>1</td> <td>10HZ</td> <td>Deze sensor meet de versnellig en beweging van de sensorplaat. Deze wordt gebruikt om de orientatie van de sensorplaat te bepalen</td></tr>
 </table>
   </ul>
   
