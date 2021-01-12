@@ -196,9 +196,8 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   
   
   <details>
-  <summary><h6>Begrippenlijst</h6></summary>
-  <br>
-   <table>
+  <summary>Begrippenlijst</summary>
+  <table>
     <tr><th>Begrip</th><th>Definitie</th></tr>
     <tr> <TD>Logistic regression(logreg)</td> <td></td></tr>
     <tr> <TD>Support vector machine(SVM)</td> <td></td></tr>
