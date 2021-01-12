@@ -194,6 +194,50 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
 
   <h4>3.3. Jargon en definities</h4>
   
+  
+  <details>
+  <summary><h6>Begrippenlijst</h6></summary>
+<br>
+
+
+  
+ <table>
+    <tr>
+      <th>Begrip</th>
+      <th>Definitie</th>
+    </tr>
+    <tr>
+      <td>Logistic regression(logreg)</td>
+      <td>Support vector machine(SVM)</td>
+      <td>features</td>
+      <td>datetime</td>
+      <td>deep learning</td>
+      <td>neurale netwerken</td>
+      <td>fourrier transformatie</td>
+      <td>false positive(FP)</td>
+      <td>false negative(FN)</td>
+      <td>true positive(TP)</td>
+      <td>true negative(TN)</td>
+      <td></td>
+      
+    </tr> 
+  <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr> 
+  </table>
+  
+  
+  </details>
+  
+  
+  
+  
+  
+  
+  
   daily standup
   
 
