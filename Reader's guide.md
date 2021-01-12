@@ -212,8 +212,8 @@ Een feature is een individueel meetbare eigenschap of kenmerk van een waargenome
     <tr> <TD>Sampling frequentie</td> <td>is, onder meer bij digitale signaalbewerking en regeltechniek, het aantal keren per seconde (de frequentie) waarmee een continu signaal wordt bemonsterd.</td></tr>
     <tr> <TD>unix-tijd</td> <td>De Unix Epoch is de datum en tijd die correspondeert met de waarde 0 van de klok en de timestamp van Unix. Op de meeste Unix-systemen is de epoch gelijk aan 00:00:00 GMT op 1 januari 1970. De meeste Unix-systemen gebruiken 1 'tick' per seconde. De Unix-tijd is dan het gehele aantal seconden na de Unix Epoch.</td></tr>
     <tr> <TD>dataframe</td> <td>Een dataframe lijkt op een matrix. Het is ook een verzameling gegevens in tabel vorm.</td></tr>
-    <tr> <TD>overfittingtd>de productie van een analyse die te nauw of precies overeenkomt met een bepaalde set gegevens, en daarom mogelijk niet in staat is om aanvullende gegevens te passen of toekomstige waarnemingen betrouwbaar te voorspellen</tr>
-    <tr> <TD>underfitting<td><td>Underfitting betekent dat een model een te simplistisch beeld van de werkelijkheid geeft.</td></tr>
+    <tr> <TD>overfitting</td><td>de productie van een analyse die te nauw of precies overeenkomt met een bepaalde set gegevens, en daarom mogelijk niet in staat is om aanvullende gegevens te passen of toekomstige waarnemingen betrouwbaar te voorspellen</td></tr>
+    <tr> <TD>underfitting</td><td>Underfitting betekent dat een model een te simplistisch beeld van de werkelijkheid geeft.</td></tr>
     <tr> <TD>accuracy></td><td>(TP + TN)/N</td></tr>
     <tr> <TD>precision</td> <td>TP / (TP + FP)</td></tr>
     <tr> <TD>recall</td> <td>TP / (TP + FN) </td></tr>
