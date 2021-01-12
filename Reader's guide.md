@@ -407,6 +407,22 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
 
 
   <h4>6.2. Configuratie model</h4>
+  Voor de configuratie van het model is door mij gekozen voor een timeshift om het model voorspellend te maken. Deze is te vinden in de literatuurlijst. Er zijn bepaalde features bedacht. de gebruikte features zijn:
+  
+  - Bed_status2
+  
+  - left
+  
+  - right
+  
+  - Avg_column
+  
+  - slope
+  
+  - FSR_25s_variance
+  
+  - Slopelmr*
+  
   
   <h4>6.3. Training model</h4>
   Voor het trainen van het uiteindelijke model is er gebruik gemaakt van de bovenstaande featureset.  
@@ -417,14 +433,14 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
   Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor   dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit   balans kan zijn zoals beschrveen in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de    trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
 
   De model socres gebaseerd op de trainings-dataset waren:
-  accuracy:  0.8046204620462046
-  precision: 0.8825082508250826
-  recall:    0.7635636778983438
+  - accuracy:  0.8046204620462046
+  - precision: 0.8825082508250826
+  - recall:    0.7635636778983438
 
   De model socres gebaseerd op de validatie-dataset waren:
-  accuracy:  0.8220786846741045
-  precision: 0.8835807050092764
-  recall:    0.8429203539823009
+  - accuracy:  0.8220786846741045
+  - precision: 0.8835807050092764
+  - recall:    0.8429203539823009
 
   Deze scores zullen altijd tussen de 0 en 1 liggen waarbij 1 hest beste is.
   
