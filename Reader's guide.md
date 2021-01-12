@@ -349,16 +349,48 @@ De training en validatie dataset is door middel van de onderstaande code opgespl
 <br></br>
 Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen.
 <br></br>
-
 Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun sensorplaat, deze maakt gebruik van drie typen sensoren voor het verzamelen van de data. Deze zijn hieronder in de tabel weergegeven.
 <br></br>
 <table>
     <tr><th>Sensor type</th><th>Hoeveelheid</th><th>Sampling frequentie</th><th>Beschrijving</th></tr>
-    <tr><td>Force sensingresistors (FSR)</td> <td>8</td> <td>10HZ</td> <td>Deze sensoren worden gebruikt evoor het meten van de druk op acht locaties op de sensorplaat. </td></tr>
-  <tr><td>Piezoelectric sensors (PE)</td> <td>6</td> <td>120HZ</td> <td>Deze sensoren meten vibraties, er zijn zes sensoren verspreid over de sensorplaat.</td></tr>
+    <tr><td>Force sensingresistors (FSR)</td> <td>8</td> <td>10HZ</td> <td>Deze sensoren worden gebruikt voor het meten van de druk op acht locaties op de sensorplaat. </td></tr>
+  <tr><td>Piezoelectric sensors (PE)</td> <td>6</td> <td>120HZ</td> <td>Deze sensoren meten vibraties, er zijn zes sensoren verspreidt over de sensorplaat.</td></tr>
   <tr><td>Accelerometer (PE)</td> <td>1</td> <td>10HZ</td> <td>Deze sensor meet de versnellig en beweging van de sensorplaat. Deze wordt gebruikt om de orientatie van de sensorplaat te bepalen</td></tr>
 </table>
+<br></br>
+De rauwe aangeleverde csvfiles bestaan uit 92 kolommen. Dit zijn: time, bedstatus, sp_electric-kolommen, sp_resistive-kolommen, sp_accelero-kolommen, device_id, hour_setting, patient_present, percentage, patient_detection, patiet_detect_state, Moment_of_detection. Allereerst wil ik toelcihten waarom er zoveel kolommen zijn, dit heeft met de sampling fequency te maken. Sommige sensoren meten vaker dan anderen zoals te halen is uit de tabel hierboven. MomoMedical heeft ons een visualisatie script aangeleverd waarin alle sensoren worden omgezet naar een frequentie van 120HZ.
+
+Hieronder staat een link naar een Python notebook die ik heb gebruikt om de kolommen van de rauwe data uit te printen. Als eerst heb ik genavigeerd naar de juiste map om de data te kunnen bereiken. Daarna heb ik met pd.read_csv() de data ingelezen. Hierna heb ik het dataframe geprint en eenn lijst met kolomnamen gemaakt en deze geprint.
+(link)
+
+
+
+
+
+
+
+
+
   </ul>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 <h2>6. Voorspellende analyse </h2>
 <ul>
@@ -392,7 +424,7 @@ A Multiclass SVM assigns labels to instances with the use of support-vector mach
 Tijdens dit onderzoek wilden we de volgende vraag beantwoorden: "Wat is het optimale machine learning algoritme dat kan voorspellen dat een patiënt zijn bed verlaat met behulp van de verzamelde gegevens van de BedSense-sensor (versie 9) gemaakt door Momo Medical?".
 
 Optimaal voor ons team betekende de volgende twee dingen:
-- Het minste aantal fout-positieven en fout-negatieven.
+- Het minste aantal false positives en false negatives.
 - Voorspellen zo ver mogelijk vooruit.
 
 De belangrijkste conclusie is dat het optimale algoritme dat werd gevonden een lineaire supportsvectormachine was. Met dit als basis is het nu mogelijk om te voorspellen dat patiënten 1 minuut voordat ze uit bed komen uit bed komen. Het huidige model dat deze selectie van functies gebruikt, produceert gemiddeld het minste aantal fout-positieven en fout-negatieven.
