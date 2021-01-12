@@ -212,8 +212,8 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
    <tr> <TD>true negative(TN)</td> <td></td></tr>
     <tr> <TD>daily standup</td> <td></td></tr>
     <tr> <TD>Sampling frequentie</td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
+    <tr> <TD>unix-tij</td> <td></td></tr>
+    <tr> <TD>dataframe</td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
@@ -358,7 +358,7 @@ Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun s
   <tr><td>Accelerometer (PE)</td> <td>1</td> <td>10HZ</td> <td>Deze sensor meet de versnellig en beweging van de sensorplaat. Deze wordt gebruikt om de orientatie van de sensorplaat te bepalen</td></tr>
 </table>
 <br></br>
-De rauwe aangeleverde csvfiles bestaan uit 92 kolommen. Dit zijn: time, bedstatus, sp_electric-kolommen, sp_resistive-kolommen, sp_accelero-kolommen, device_id, hour_setting, patient_present, percentage, patient_detection, patiet_detect_state, Moment_of_detection. Allereerst wil ik toelcihten waarom er zoveel kolommen zijn, dit heeft met de sampling fequency te maken. Sommige sensoren meten vaker dan anderen zoals te halen is uit de tabel hierboven. MomoMedical heeft ons een visualisatie script aangeleverd waarin alle sensoren worden omgezet naar een frequentie van 120HZ.
+De rauwe aangeleverde csvfiles bestaan uit 92 kolommen. Dit zijn de belangrijkste kolommen: time, bedstatus, sp_electric-kolommen, sp_resistive-kolommen, sp_accelero-kolommen en device_id. Allereerst wil ik toelcihten waarom er zoveel kolommen zijn, dit heeft met de sampling fequency te maken. Sommige sensoren meten vaker dan anderen zoals te halen is uit de tabel hierboven. MomoMedical heeft ons een visualisatie script aangeleverd waarin alle sensoren worden omgezet naar een frequentie van 120HZ.
 <br></br>
 Hieronder staat een link naar een Python notebook die ik heb gebruikt om de kolommen van de rauwe data uit te printen. Als eerst heb ik genavigeerd naar de juiste map om de data te kunnen bereiken. Daarna heb ik met pd.read_csv() de data ingelezen. Hierna heb ik het dataframe geprint en een lijst met kolomnamen gemaakt en deze geprint.
 <br></br>
@@ -366,14 +366,14 @@ https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-
 <br></br>
 
 Hieronder staat een andere link naar het visualisatiescript van MomoMedical dit script transformeert alle sensoren naar de zelfde sampling frequentie en verminderd het aantal kolommen drastisch.
+<br></br>
 https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/visualisatiescriptMOMO.PNG
 
 Hieronder staat een link  naar de rauwe data gevisualiseerd. Op de x-as staat de tijd en op de y-as staat van beneden naar boven de hoeveelheid trillingen,druk en bedstatus.
+<br></br>
 https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/visualisatie%20raw%20data.PNG
 
-
-
-
+Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. De bedstatus is of de patient in bed ligt, zit of niet in bed is. Een bedstatus van 2 betekent dat de patient in bed ligt, als die 1 is betekent het dat de patient de intentie heeft om uit bed te gaan een waarschijnlijk op het bed zit, 0 betekent dat de patient niet meer in of in de buurt van het bed is.De sp_electric-kolommen slaan de gemeten data op van de piëzo sensoren, de sp_resistive-kolommen slaan de gemeten data op van de FSR-sensoren en de sp-acccero-kolommen slaan de data op van de versnellingsmeter. Device_id staat voor de identificatie code van de desbetreffende sensoreplaat.
   </ul>
   
   
