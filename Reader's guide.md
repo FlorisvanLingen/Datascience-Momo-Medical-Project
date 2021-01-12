@@ -197,40 +197,35 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   
   <details>
   <summary><h6>Begrippenlijst</h6></summary>
-<br>
-
-
-  
- <table>
-    <tr>
-      <th>Begrip</th>
-      <th>Definitie</th>
-    </tr>
-    <tr>
-      <td>Logistic regression(logreg)</td>
-      <td>Support vector machine(SVM)</td>
-      <td>features</td>
-      <td>datetime</td>
-      <td>deep learning</td>
-      <td>neurale netwerken</td>
-      <td>fourrier transformatie</td>
-      <td>false positive(FP)</td>
-      <td>false negative(FN)</td>
-      <td>true positive(TP)</td>
-      <td>true negative(TN)</td>
-      <td></td>
-      
-    </tr> 
-  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr> 
-  </table>
-  
-  
-  </details>
+  <br>
+   <table>
+    <tr><th>Begrip</th><th>Definitie</th></tr>
+    <tr> <TD>Logistic regression(logreg)</td> <td></td></tr>
+    <tr> <TD>Support vector machine(SVM)</td> <td></td></tr>
+    <tr> <TD>features</td> <td></td></tr>
+    <tr> <TD>datetime</td> <td></td></tr>
+    <tr> <TD>deep learning</td> <td></td></tr>
+    <tr> <TD>neurale netwerken</td> <td></td></tr>
+    <tr> <TD>fourrier transformatie</td> <td></td></tr>
+    <tr> <TD>false positive(FP)</td> <td></td></tr>
+    <tr> <TD>false negative(FN)</td> <td></td></tr>
+    <tr> <TD>true positive(TP)</td> <td></td></tr>
+   <tr> <TD>true negative(TN)</td> <td></td></tr>
+    <tr> <TD>daily standup</td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+    <tr> <TD></td> <td></td></tr>
+   </table>
+</details>
   
   
   
@@ -238,7 +233,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   
   
   
-  daily standup
+ 
   
 
   <h4>3.4. Literatuur</h4>
