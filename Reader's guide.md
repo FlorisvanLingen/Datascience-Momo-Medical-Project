@@ -344,8 +344,11 @@ Later hebben we ook nog een extra dataset aangeleverd gekregen met daarin 102 cs
 (foto van de csv files)
 
 De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
+<br></br>
 (link https://link.springer.com/article/10.1007/s41066-017-0049-2)
+<br></br>
 Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen.
+
 
   </ul>
   
