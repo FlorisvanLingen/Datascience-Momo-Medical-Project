@@ -324,10 +324,10 @@ Tijdens dit project hebben we gewerkt volgens de scrum methode. Onze sprints war
   
   <details>
   <summary>Voorbeeld van ons trello board</summary>
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/trello.PNG?raw=true)
+  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/trello.PNG?raw=true">trello.PNG</a>
   </details>
   
-    <h6>Planning</h6>
+   <h6>Planning</h6>
 Hieronder is een link te vinden naar onze globale planning die wij aan het begin van het project hebben opgesteld. Uiteindelijk heeft deze ons erg veel geholpen in het scherp houden van de scope.
   <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/planning%20(2).xlsx">Link naar planning.xlsx</a>
   </ul>
