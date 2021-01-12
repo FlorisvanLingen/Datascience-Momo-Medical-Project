@@ -428,21 +428,25 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
 
   Deze scores zullen altijd tussen de 0 en 1 liggen waarbij 1 hest beste is.
   
+  De scores van de validatieset zien er uit als volgt:
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true)
+  
   <h4>6.4. Evaluatie model</h4>
   Voor de evaluatie van het model is altijd cross validation gebruikt. Dit betekent dat de data wordt opgesplitst in een training en test set. 
     ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true)
   
-  Ook is er een evaluatie set appart gehoud die alleen gebruikt zou worden voor het aantonen van de validiteit van het model als deze definitief was. De scores hiervan werden geintepreteerd door middel van een confusionmatrix die door mij gemaakt is.
+  Ook is er een evaluatie set appart gehoud die alleen gebruikt zou worden voor het aantonen van de validiteit van het model als deze definitief was. De scores hiervan werden geintepreteerd door middel van een confusionmatrix die door mij gemaakt is. Een bron die uitlegd waarom een confusion matrix gebruiken voor het evalueren van een classificatie model een goede aanpak is, staat hieronder:
   https://algorithmia.com/blog/evaluating-machine-learning-models-with-a-confusion-matrix
   
-  Deze zag er uit als volgt:
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/evaluatieset.PNG?raw=true)
+  De scores van de evaluatie set zien er uit als volgt:
+  <br></br>
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/evaluatieset.PNG?)
   
 
   
   <h4>6.5. Visualisatie model</h4>
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true)
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true)
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?)
+  
   
   
 </ul>
