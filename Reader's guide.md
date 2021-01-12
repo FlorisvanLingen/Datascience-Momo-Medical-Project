@@ -332,9 +332,21 @@ Hieronder is een link te vinden naar onze globale planning die wij aan het begin
 <h2>5. Voorbereiding data</h2>
   <ul>
     <h4>5.1. Verkennen data</h4>
+  ddddd
     <h4>5.2. Opschonen data</h4>
+  ddddd
     <h4>5.3. Voorbereiden data</h4>
+  ddddd
     <h4>5.4. Uitleg data</h4>
+  
+De dataset aangeleverd door MomoMedical bestaat uit circa 12539 csv bestanden. Deze is door middel van FileZilla met Linux commands opgesplitst in een training en validatie    set bestaande uit 11346 csv bestanden en een evaluatie set van 1193 csv bestanden. Er is gekozen om week vijf als evaluatie set te gebruiken aangezien deze de kleinste in        omvang is en ongeveer 10% uit van de gehele aangeleverde dataset uitmaakt. Deze dataset is niet aangeraakt tot de laatste versie van het model bekend was.
+Later hebben we ook nog een extra dataset aangeleverd gekregen met daarin 102 csv bestanden dit de data van 24uur. Deze was opgestuurd door MomoMedical zodat wij om de 30 seconden voorspellingen konden maken op data die het model nog niet gezien had.
+(foto van de csv files)
+
+De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
+(link https://link.springer.com/article/10.1007/s41066-017-0049-2)
+Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen.
+
   </ul>
   
 <h2>6. Voorspellende analyse </h2>
