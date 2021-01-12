@@ -302,7 +302,23 @@ Hieronder is een link te vinden naar onze globale planning die wij aan het begin
 <h2>6. Voorspellende analyse </h2>
 <ul>
   <h4>6.1. Selectie model</h4>
-  
+  Linear support vector machine(SVM)
+Linear support vector machines are supervised learning models with associated learning algorithms that analyze data for classification and regression analysis. They are widely used for classification tasks. Since our objective is to estimate a class and not a number we are dealing with a classification problem. Based on other research regarding classification tasks that use a SVM like the one below it was decided to experiment with SVM’s.[3][4]
+Two class and Multiclass
+Two class or binary classification means that there are two classes, in case of this research a bedstatus with either a value of zero or one. In this case zero means the patient has left their bed and one means the patient is in their bed.
+A Multiclass SVM assigns labels to instances with the use of support-vector machines, the labels are drawn from a finite set of several elements. The most used approach is to reduce a single multiclass problem into multiple binary classification problems like one-versus-all or one-versus-one. In case of this research the classes are a bedstatus with either a value of zero one or two. In this case zero means the patient has left their bed. One means the patient has the intention of going out of bed like sitting for example and two means the patient is in their bed.
+
+
+[3] Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Data Classification. International Journal of Advanced Research in Computer Engineering & Technology, 1(10), 185–189. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
+[4] K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. 
+
+
+
+
+
+
+
+
   <h4>6.2. Configuratie model</h4>
   <h4>6.3. Training model</h4>
   <h4>6.4. Evaluatie model</h4>
