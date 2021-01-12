@@ -360,15 +360,16 @@ Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun s
 <br></br>
 De rauwe aangeleverde csvfiles bestaan uit 92 kolommen. Dit zijn: time, bedstatus, sp_electric-kolommen, sp_resistive-kolommen, sp_accelero-kolommen, device_id, hour_setting, patient_present, percentage, patient_detection, patiet_detect_state, Moment_of_detection. Allereerst wil ik toelcihten waarom er zoveel kolommen zijn, dit heeft met de sampling fequency te maken. Sommige sensoren meten vaker dan anderen zoals te halen is uit de tabel hierboven. MomoMedical heeft ons een visualisatie script aangeleverd waarin alle sensoren worden omgezet naar een frequentie van 120HZ.
 <br></br>
-Hieronder staat een link naar een Python notebook die ik heb gebruikt om de kolommen van de rauwe data uit te printen. Als eerst heb ik genavigeerd naar de juiste map om de data te kunnen bereiken. Daarna heb ik met pd.read_csv() de data ingelezen. Hierna heb ik het dataframe geprint en eenn lijst met kolomnamen gemaakt en deze geprint.
+Hieronder staat een link naar een Python notebook die ik heb gebruikt om de kolommen van de rauwe data uit te printen. Als eerst heb ik genavigeerd naar de juiste map om de data te kunnen bereiken. Daarna heb ik met pd.read_csv() de data ingelezen. Hierna heb ik het dataframe geprint en een lijst met kolomnamen gemaakt en deze geprint.
 <br></br>
 https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Read%20raw%20csv%20file.pdf
 <br></br>
 
+Hieronder staat een andere link naar het visualisatiescript van MomoMedical dit script transformeert alle sensoren naar de zelfde sampling frequentie en verminderd het aantal kolommen drastisch.
+https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/visualisatiescriptMOMO.PNG
 
-
-
-
+Hieronder staat een link  naar de rauwe data gevisualiseerd. Op de x-as staat de tijd en op de y-as staat van beneden naar boven de hoeveelheid trillingen,druk en bedstatus.
+https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/visualisatie%20raw%20data.PNG
 
 
 
