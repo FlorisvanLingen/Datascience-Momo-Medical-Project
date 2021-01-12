@@ -23,10 +23,11 @@
     <ul><h5>6.3. Training model</h5></ul>
     <ul><h5>6.4. Evaluatie model</h5></ul>
     <ul><h5>6.5. Visualisatie model</h5></ul>
-  <h5> 7. Evaluatie </h5>	
-  <h5> 8. Conclusie </h5>	
-  <h5> 9. Discussie </h5>	
-  <h5> 10. Reflectie  </h5>
+  	
+  <h5> 7. Conclusie </h5>	
+  <h5> 8. Discussie </h5>	
+  <h5> 9. Reflectie  </h5>
+  <h5> 10. Evaluatie </h5>
   <h5> 11. Communicatie <h5>
   <h5> 12. Python Notebooks </h5>	
   <h5> 13. Scrum backlog tickets </h5> 
@@ -301,44 +302,35 @@ Hieronder is een link te vinden naar onze globale planning die wij aan het begin
 <h2>6. Voorspellende analyse </h2>
 <ul>
   <h4>6.1. Selectie model</h4>
+  
   <h4>6.2. Configuratie model</h4>
   <h4>6.3. Training model</h4>
   <h4>6.4. Evaluatie model</h4>
   <h4>6.5. Visualisatie model</h4>
 </ul>
-<h2>7. Evaluatie </h2>
-
-Recommendations
-There are a few recommendations that can be made for further research in order to improve the current model and its features. These are:
-·	Piezoelectric sensors for heartrate
-·	Deep learning neural networks
-Piezoelectric sensors for heartrate:
-It is possible to use the piezoelectric sensors on the device to filter out the heartrate of patient[8][9], this is valuable data for the heartrate of a sleeping person is different between stages of sleep and being awake. Being able to use the piezoelectric sensor data to map the heartrate of a person could prove valuable in correctly predict when a patient is leaving or planning to leave their bed at an earlier time then the current minute.
- 
-Deep learning neural networks:
-The data format used for our machine learning algorithm can benefit from the ability a deep learning neural network provides. Neural networks can make use of more data and doesn’t require the data to be structured. With the sheer amount of data that could potentially be given for predictions, all sensor data per time interval of ~100ms which is the time interval for measurements from the used FSR sensor. Using this data, we expect that a neural network would be the way to proceed on a larger scale in order to make predictions on the more minute movements within a time period of the last few minutes.
 
 
+<h2>7. Conclusie </h2>
+
+Tijdens dit onderzoek wilden we de volgende vraag beantwoorden: "Wat is het optimale machine learning algoritme dat kan voorspellen dat een patiënt zijn bed verlaat met behulp van de verzamelde gegevens van de BedSense-sensor (versie 9) gemaakt door Momo Medical?".
+
+Optimaal voor ons team betekende de volgende twee dingen:
+- Het minste aantal fout-positieven en fout-negatieven.
+- Voorspellen zo ver mogelijk vooruit.
+
+De belangrijkste conclusie is dat het optimale algoritme dat werd gevonden een lineaire supportsvectormachine was. Met dit als basis is het nu mogelijk om te voorspellen dat patiënten 1 minuut voordat ze uit bed komen uit bed komen. Het huidige model dat deze selectie van functies gebruikt, produceert gemiddeld het minste aantal fout-positieven en fout-negatieven.
 
 
 
-<h2>8. Conclusie </h2>
-
-The main findings from this research are to know which is the best machine learning algorithm model have to be used and which features should be used to reach the best result. The goal was to predict 1 minute before that a patient leave his bed. To achieve that goal there was a sensor data of 99 anonymized patients and those data contains multiple sensors reading data with the datetime and the patient present in or out bed. After that the data been cleaned and sliced as it called in the other paragraph the researchers started to test the best set of features on the linear support vector machine model (SVM). After lots of test there were 8 features that had given the best results, and those features are described in the features section.
-During this research we set out to answer the following question: “What is the optimal algorithm that can predict a patient leaving their bed, using the collected data from the BedSense (version 9) sensor created by Momo Medical?”. 
-Optimal to our team meant the following two things:
-- The least number of false positives and false negatives.
-- Predicting as far ahead as possible.
-The main conclusion is that the optimal algorithm found was a linear support vector machine. Using this as a base it is now possible to predict patients getting out of bed 1 minute before they leave their bed. The current model using this selection of features produces the least number of false positives and false negatives on average.
-As such our team cannot say that this is the most optimal algorithm that can predict when a patient leaves their bed, but the current model is the optimization to reach the goals we could in this current timeframe.
-With further research better results should be feasible, this could be achieved using the piezoelectrical sensors for heartrate and deep learning as is noted down below in more detail.
-
-
-<h2>9. Discussie???? </h2>
 
 
 
-<h2>10. Reflectie </h2>
+
+<h2>8. Discussie???? </h2>
+
+
+
+<h2>9. Reflectie </h2>
 
 <h4>Situatie</h4>
 Voor de minor Applied Data Science en opdrachtgever MomoMedical moest ik samen met de rest van de projectgroep een machine learning model maken dat kan voorspellen wanneer patiënten hun bed verlaten. Hierbij was het eerste doel dat de voorspelling een minuut van tevoren gegeven moest worden. Het tweede doel was om in meer dat 70% van de gevallen dat patiënten uit bed bed gaan een correcte voorspelling te maken.
@@ -372,6 +364,21 @@ Ik heb tijdens deze minor veel geleerd over coderen in python, niet alleen voor 
 De volgende keer zou ik meer focus leggen op feature engineering daarnaast zou ik ook eerder aan de bel trekken als een experiment het niet waard is om meer tijd in te investeren. Daarvoor heb ik uiteraard de ervaring nodig die ik tijdens dit project opgedaan heb. Dit is het eerste datascience project waarin ik meegewerkt heb en uiteraard heb ik fouten gemaakt waarvan ik geleerd heb. Ook zou het volgen van extra cursussen voor programmeren in python veel tijd hebben kunnen schelen in het efficiënter maken van de code.
 Ik heb vanuit de groep vooral meegekregen dat ze de samenwerking als erg aangenaam hebben ervaren. Tussendoor hebben we wel Jeanine gehad die ervoor gekozen heeft op te stoppen maar ik ben van mening dat dit niet door de groep komt. Wel heb ik aan het begin als feedback gekregen meer ruimte voor anderen over te laten om hun mening te kunnen geven en dit heb ik vanaf dat punt dan ook gedaan. Ik heb veel meer gevraagd wat anderen ervan vonden en ik heb gemerkt dan sommige groepsleden daardoor ook mondiger werden. 
 Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skills die ik heb geleerd tijdens deze minor, heb ik wel veel geleerd over mezelf tijdens deze projectmatige samenwerking. 
+
+
+
+<h2>10. Evaluatie </h2>
+
+Er zijn een aantal belangrijke aanbevelingen die gemaakt kunnen worden voor toekomstig onderzoek om het huidige model en de bijbehorende features te verbeteren. Deze aanbevelingen zijn:
+Piëzo elektrische sensoren gebruiken voor het meten van de hartslag en dit gebruiken als feature
+Het gebruik van deep learning neurale netwerken
+Het is mogelijk om het signaal van de piëzo elektrische sensoren te gebruiken door middel van het apparaat dat gebruikt wordt om de data te verzamelen. Uit dit signaal zou dan door middel van een fouriertransformatie gefilterd kunnen worden zodat hieruit het ademhalingsritme en de hartslag gefilterd kan worden. Deze zou dan gebruikt kunnen worden om betere voorspellingen te geven. De hypothese is dat voordat een patiënt uit bed stapt deze vaak eerst wakker of actiever wordt. Hierdoor zou ruim van tevoren de hartslag dan omhoog gaan en dit kan dan gebruikt worden voor het geven van een voorspelling met minder valse positieven. Ook kan het detecteren dat een patiënt uit bed gaat mogelijk eerder al door middel van deze features.
+De manier waarop de data geleverd is leent zich ook heel erg voor het gebruik van deeplearning of neurale netwerken. Neurale netwerken maken gebruik van meer data en vereist niet dat de data gestructureerd is en er door onderzoekers features worden bedacht. Met het gebruik van de totale hoeveelheid data ,dat mogelijk gebruikt kan worden voor het geven van voorspellingen, wordt er verwacht dat dit de beste manier is om op een grotere schaal verder te gaan.
+
+
+
+
+
 
 <h2>11. Communicatie</h2>
 
