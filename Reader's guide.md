@@ -196,31 +196,29 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
   <summary>Begrippenlijst</summary>
   <table>
     <tr><th>Begrip</th><th>Definitie</th></tr>
-    <tr> <TD>Logistic regression(logreg)</td> <td></td></tr>
-    <tr> <TD>Support vector machine(SVM)</td> <td></td></tr>
-    <tr> <TD>features</td> <td></td></tr>
-    <tr> <TD>datetime</td> <td></td></tr>
-    <tr> <TD>deep learning</td> <td></td></tr>
-    <tr> <TD>neurale netwerken</td> <td></td></tr>
-    <tr> <TD>fourrier transformatie</td> <td></td></tr>
-    <tr> <TD>false positive(FP)</td> <td></td></tr>
-    <tr> <TD>false negative(FN)</td> <td></td></tr>
-    <tr> <TD>true positive(TP)</td> <td></td></tr>
-   <tr> <TD>true negative(TN)</td> <td></td></tr>
-    <tr> <TD>daily standup</td> <td></td></tr>
-    <tr> <TD>Sampling frequentie</td> <td></td></tr>
-    <tr> <TD>unix-tij</td> <td></td></tr>
-    <tr> <TD>dataframe</td> <td></td></tr>
-    <tr> <TD>overfittingtd></tr>
-    <tr> <TD>underfittingtd></tr>
-    <tr> <TD>accuracy></td></tr>
-    <tr> <TD>precision</td> <td></td></tr>
-    <tr> <TD>recall</td> <td></td></tr>
-    <tr> <TD>cross validation</td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
-   </table>
+    <tr> <TD>Logistic regression(logreg)</td> <td>Met logistische regressie kan je een dichotome uitkomstvariabele (dood versus leven, wel of geen klachten, etc.) relateren aan één of meerdere predictoren. Het basis idee achter logistische regressie is dat je de uitkomstvariabele zodanig transformeert dat er een soort lineaire regressie mogelijk is.</td></tr>
+    <tr> <TD>Support vector machine(SVM)</td> <td>Een support vector machine (SVM) is een voorbeeld van zo'n algoritme. Dit type algoritme is supervised: in dit geval wordt een model getraind met een historische dataset. Je laadt heel veel historische data in het model, zodat het model patronen in deze data gaat ontdekken en herkennen.</td></tr>
+    <tr> <TD>features</td> <td>
+Een feature is een individueel meetbare eigenschap of kenmerk van een waargenomen fenomeen.</td></tr>
+    <tr> <TD>datetime</td> <td>datum en tijd functie van pandas in python</td></tr>
+    <tr> <TD>deep learning</td> <td>Deep learning is een subveld van machine learning. Deep learning wordt gebaseerd op kunstmatige neurale netwerken. Deep learning stelt computers in staat om nieuwe dingen te leren van grote hoeveelheden data. Voorbeelden zijn beeldherkenning, spraakherkenning, spelen van bordspel programma's of vertalingen.</td></tr>
+    <tr> <TD>neurale netwerken</td> <td>Een neuraal netwerk, vroeger neuronaal netwerk genoemd, is een groep van verbonden neuronen (zenuwcellen). De twee belangrijkste vormen zijn biologische neurale netwerken, in het bijzonder het menselijk brein, en kunstmatige neurale netwerken.</td></tr>
+    <tr> <TD>fourrier transformatie</td> <td>worden gezien als dat signaal in het "frequentiedomein". De fouriertransformatie generaliseert voor niet-periodieke functies de fourierreeks van een periodieke functie. Een generalisatie van de fouriertransformatie is de laplacetransformatie.</td></tr>
+    <tr> <TD>false positive(FP)</td> <td>test resultaat waarbij de positieve klasse voorspelling niet hetzelfde is als de werkelijke situatie</td></tr>
+    <tr> <TD>false negative(FN)</td> <td>test resultaat waarbij de negatieve klasse voorspelling niet hetzelfde is als de werkelijke situatie</td></tr>
+    <tr> <TD>true positive(TP)</td> <td>test resultaat waarbij de positieve klasse voorspelling hetzelfde is als de werkelijke situatie</td></tr>
+   <tr> <TD>true negative(TN)</td> <td>test resultaat waarbij de negatieve klasse voorspelling niet hetzelfde is als de werkelijke situatie</td></tr>
+    <tr> <TD>daily standup</td> <td>De Daily Scrum, ook wel standup meeting of daily standup meeting genoemd, is een dagelijkse bijeenkomst van het Scrumteam van maximaal 15 minuten. </td></tr>
+    <tr> <TD>Sampling frequentie</td> <td>is, onder meer bij digitale signaalbewerking en regeltechniek, het aantal keren per seconde (de frequentie) waarmee een continu signaal wordt bemonsterd.</td></tr>
+    <tr> <TD>unix-tijd</td> <td>De Unix Epoch is de datum en tijd die correspondeert met de waarde 0 van de klok en de timestamp van Unix. Op de meeste Unix-systemen is de epoch gelijk aan 00:00:00 GMT op 1 januari 1970. De meeste Unix-systemen gebruiken 1 'tick' per seconde. De Unix-tijd is dan het gehele aantal seconden na de Unix Epoch.</td></tr>
+    <tr> <TD>dataframe</td> <td>Een dataframe lijkt op een matrix. Het is ook een verzameling gegevens in tabel vorm.</td></tr>
+    <tr> <TD>overfittingtd>de productie van een analyse die te nauw of precies overeenkomt met een bepaalde set gegevens, en daarom mogelijk niet in staat is om aanvullende gegevens te passen of toekomstige waarnemingen betrouwbaar te voorspellen</tr>
+    <tr> <TD>underfitting<td><td>Underfitting betekent dat een model een te simplistisch beeld van de werkelijkheid geeft.</td></tr>
+    <tr> <TD>accuracy></td><td>(TP + TN)/N</td></tr>
+    <tr> <TD>precision</td> <td>TP / (TP + FP)</td></tr>
+    <tr> <TD>recall</td> <td>TP / (TP + FN) </td></tr>
+    <tr> <TD>cross validation</td> <td>Het opdelen van je data in een training, test en evaluatieset om te kunnen zien of je resultaten generaliseerbaar zijn.</td></tr>
+    </table>
 </details>
   
   
@@ -336,11 +334,11 @@ Hieronder is een link te vinden naar onze globale planning die wij aan het begin
 <h2>5. Voorbereiding data</h2>
   <ul>
     <h4>5.1. Verkennen data</h4>
-  ddddd
+  <br></br>
     <h4>5.2. Opschonen data</h4>
-  ddddd
+  <br></br>
     <h4>5.3. Voorbereiden data</h4>
-  ddddd
+  <br></br>
     <h4>5.4. Uitleg data</h4>
   
 De dataset aangeleverd door MomoMedical bestaat uit circa 12539 csv bestanden. Deze is door middel van FileZilla met Linux commands opgesplitst in een training en validatie    set bestaande uit 11346 csv bestanden en een evaluatie set van 1193 csv bestanden. Er is gekozen om week vijf als evaluatie set te gebruiken aangezien deze de kleinste in        omvang is en ongeveer 10% uit van de gehele aangeleverde dataset uitmaakt. Deze dataset is niet aangeraakt tot de laatste versie van het model bekend was.
