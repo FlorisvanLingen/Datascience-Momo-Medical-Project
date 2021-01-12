@@ -211,7 +211,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
     <tr> <TD>true positive(TP)</td> <td></td></tr>
    <tr> <TD>true negative(TN)</td> <td></td></tr>
     <tr> <TD>daily standup</td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
+    <tr> <TD>Sampling frequentie</td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
@@ -348,8 +348,15 @@ De training en validatie dataset is door middel van de onderstaande code opgespl
 (link https://link.springer.com/article/10.1007/s41066-017-0049-2)
 <br></br>
 Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen.
+<br></br>
 
-
+Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun sensorplaat, deze maakt gebruik van drie typen sensoren voor het verzamelen van de data. Deze zijn hieronder in de tabel weergegeven.
+<br></br>
+<table>
+    <tr><th>Sensor type</th><th>Hoeveelheid</th><th>Sampling frequentie</th><th>Beschrijving</th></tr>
+    <tr><TD>Force sensingresistors (FSR)</td>8</tr></td>10HZ <td>Deze sensoren worden gebruikt evoor het meten van de druk op acht locaties op de sensorplaat. </td></tr>
+    <tr><TD>Piezoelectric sensors (PE)</td>6</tr></td>120HZ <td>Deze sensoren meten vibraties, er zijn zes sensoren verspreid over de sensorplaat.</td></tr>
+    <tr><TD>Accelerometer (PE)</td>1 <td>10HZ</td>Deze sensor meet de versnellig en beweging van de sensorplaat. Deze wordt gebruikt om de orientatie van de sensorplaat te bepalen</tr>
   </ul>
   
 <h2>6. Voorspellende analyse </h2>
