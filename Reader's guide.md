@@ -324,7 +324,7 @@ Tijdens dit project hebben we gewerkt volgens de scrum methode. Onze sprints war
   
   <details>
   <summary>Voorbeeld van ons trello board</summary>
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/Afbeelding1.jpg?raw=true)
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/trello.PNG?raw=true)
   </details>
   
     <h6>Planning</h6>
