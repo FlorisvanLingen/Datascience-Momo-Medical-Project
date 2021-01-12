@@ -216,7 +216,7 @@ Ook moet het aantal foutieve meldingen omlaag.  In de huidige situatie gaat er i
     <tr> <TD>accuracy></td></tr>
     <tr> <TD>precision</td> <td></td></tr>
     <tr> <TD>recall</td> <td></td></tr>
-    <tr> <TD></td> <td></td></tr>
+    <tr> <TD>cross validation</td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
     <tr> <TD></td> <td></td></tr>
@@ -396,10 +396,11 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
   <h4>6.1. Selectie model</h4>
   
   
-  Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Dit is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is is het volgende onderzoek:
+  Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Dit is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
    <br></br>
 Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Data Classification. International Journal of Advanced Research in Computer Engineering & Technology, 1(10), 185–189. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
-K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. 
+
+K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. https://ieeexplore.ieee.org/abstract/document/8231736
  <br></br>
   
 
@@ -408,14 +409,35 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
   
   <h4>6.3. Training model</h4>
   Voor het trainen van het uiteindelijke model is er gebruik gemaakt van de bovenstaande featureset.  
-  De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
+  De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en        validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
 <br></br>
 (link https://link.springer.com/article/10.1007/s41066-017-0049-2)
 <br></br>
-Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit balans kan zijn zoals beschrveen in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
+  Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor   dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit   balans kan zijn zoals beschrveen in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de    trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
 
+  De model socres gebaseerd op de trainings-dataset waren:
+  accuracy:  0.8046204620462046
+  precision: 0.8825082508250826
+  recall:    0.7635636778983438
+
+  De model socres gebaseerd op de validatie-dataset waren:
+  accuracy:  0.8220786846741045
+  precision: 0.8835807050092764
+  recall:    0.8429203539823009
+
+  Deze scores zullen altijd tussen de 0 en 1 liggen waarbij 1 hest beste is.
   
   <h4>6.4. Evaluatie model</h4>
+  Voor de evaluatie van het model is altijd cross validation gebruikt. Dit betekent dat de data wordt opgesplitst in een training en test set. 
+    ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true)
+  
+  Ook is er een evaluatie set appart gehoud die alleen gebruikt zou worden voor het aantonen van de validiteit van het model als deze definitief was. De scores hiervan werden geintepreteerd door middel van een confusionmatrix die door mij gemaakt is.
+  https://algorithmia.com/blog/evaluating-machine-learning-models-with-a-confusion-matrix
+  
+  Deze zag er uit als volgt:
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/evaluatieset.PNG?raw=true)
+  
+
   
   <h4>6.5. Visualisatie model</h4>
   ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true)
