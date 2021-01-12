@@ -413,10 +413,14 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
 (link https://link.springer.com/article/10.1007/s41066-017-0049-2)
 <br></br>
 Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit balans kan zijn zoals beschrveen in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
+
   
   <h4>6.4. Evaluatie model</h4>
   
   <h4>6.5. Visualisatie model</h4>
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true)
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true)
+  
   
 </ul>
 
