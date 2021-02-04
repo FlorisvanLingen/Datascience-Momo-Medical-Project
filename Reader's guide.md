@@ -570,7 +570,7 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 Hier is een link naar de [paper](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Paper/paper%20v1.0.d). Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken van feedback op stukken geschreven door andere groepsleden. Voor het gemak staat een kopie van de stukken ook hieronder:
 
 <details>
-  <summary><h5>Methods<5></summary>
+  <summary><h5>Methods</h5></summary>
     
 **Linear support vector machine (LSVM)**
   
@@ -586,7 +586,7 @@ Logistic regression is a classification algorithm, used when the value of the ta
 </details>
 
 <details>
-  <summary><h5>Discussion<5></summary>
+  <summary><h5>Discussion</h5></summary>
 
 In this paragraph the validity of this research will be discussed. The data used to make predictions comes from three different nursing home departments: Psychogeriatrics, Somatic and Rehabilitation. The dataset includes information of 78 to 99 anonymized patients. The nature of the conditions the patients have is only generalizable since it is seen as personal data and was not included in the dataset. Therefore, we cannot be certain the results will be consequent since the researched sample might not represent the population. 
 Also, the machine learning model was trained to predict when a patient is getting out of bed, not in their bed. Hence when the model is used in real time when patients might get into their beds the results may vary. Configuring the correct settings in a real time program is necessary to get the best results.
