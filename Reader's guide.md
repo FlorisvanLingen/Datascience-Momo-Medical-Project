@@ -569,7 +569,7 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 
 Hier is een link naar de [paper](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Paper/paper%20v1.0.d). Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken van feedback op stukken geschreven door andere groepsleden. Voor het gemak staat een kopie van de stukken ook hieronder:
 
-<details><summary><h5>Methods</h5></summary>
+<details><summary>Methods</summary>
     
 **Linear support vector machine (LSVM)**
   
