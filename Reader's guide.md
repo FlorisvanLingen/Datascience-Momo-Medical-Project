@@ -516,13 +516,15 @@ Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skil
 
 <h2>9. Evaluatie </h2>
 
+<h4>Evaluatie onderzoek</h4>
+
 Er zijn een aantal belangrijke aanbevelingen die gemaakt kunnen worden voor toekomstig onderzoek om het huidige model en de bijbehorende features te verbeteren. Deze aanbevelingen zijn:
 Piëzo elektrische sensoren gebruiken voor het meten van de hartslag en dit gebruiken als feature
 Het gebruik van deep learning neurale netwerken
 Het is mogelijk om het signaal van de piëzo elektrische sensoren te gebruiken door middel van het apparaat dat gebruikt wordt om de data te verzamelen. Uit dit signaal zou dan door middel van een fouriertransformatie gefilterd kunnen worden zodat hieruit het ademhalingsritme en de hartslag gefilterd kan worden. Deze zou dan gebruikt kunnen worden om betere voorspellingen te geven. De hypothese is dat voordat een patiënt uit bed stapt deze vaak eerst wakker of actiever wordt. Hierdoor zou ruim van tevoren de hartslag dan omhoog gaan en dit kan dan gebruikt worden voor het geven van een voorspelling met minder valse positieven. Ook kan het detecteren dat een patiënt uit bed gaat mogelijk eerder al door middel van deze features.
 De manier waarop de data geleverd is leent zich ook heel erg voor het gebruik van deeplearning of neurale netwerken. Neurale netwerken maken gebruik van meer data en vereist niet dat de data gestructureerd is en er door onderzoekers features worden bedacht. Met het gebruik van de totale hoeveelheid data ,dat mogelijk gebruikt kan worden voor het geven van voorspellingen, wordt er verwacht dat dit de beste manier is om op een grotere schaal verder te gaan.
 
-
+<h4>Evaluatie project als geheel</h4>
 
 
 
