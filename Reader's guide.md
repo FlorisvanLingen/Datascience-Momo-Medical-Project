@@ -584,7 +584,7 @@ Two class or binary classification means that there are two classes, in case of 
 Logistic regression is a classification algorithm, used when the value of the target variable is categorical in nature. This model is most commonly used when the data in question has binary output, so when it belongs to one class or another, or is either a 0 or 1. Based on other research regarding classification tasks that use logistic   regression to get good results like the one below it was decided to experiment with this kind of regression.[7, 8]
 </details>
 
-<details><summary><h5>Discussion</h5></summary>
+<details><summary>Discussion</summary>
 
 In this paragraph the validity of this research will be discussed. The data used to make predictions comes from three different nursing home departments: Psychogeriatrics, Somatic and Rehabilitation. The dataset includes information of 78 to 99 anonymized patients. The nature of the conditions the patients have is only generalizable since it is seen as personal data and was not included in the dataset. Therefore, we cannot be certain the results will be consequent since the researched sample might not represent the population. 
 Also, the machine learning model was trained to predict when a patient is getting out of bed, not in their bed. Hence when the model is used in real time when patients might get into their beds the results may vary. Configuring the correct settings in a real time program is necessary to get the best results.
