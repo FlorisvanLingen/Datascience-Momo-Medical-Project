@@ -566,7 +566,39 @@ Hieronder staan de presentaties waar ik aan bij heb gedragen:
 </li>
 </ul>
 <h4>Schrijven van de paper</h4>
-Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken van feedback op stukken geschreveb door ander egroepsleden.
+
+Hier is een link naar de [paper](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Paper/paper%20v1.0.d). Mijn bijdrage aan het schrijven van de paper is de discussie en de methods geweest. Verder ben ik actief bezig geweest met het geven en verwerken van feedback op stukken geschreven door andere groepsleden. Voor het gemak staat een kopie van de stukken ook hieronder:
+
+<details>
+  <summary><h5>Methods<5></summary>
+    
+**Linear support vector machine (LSVM)**
+  
+Linear Support Vector Machine is a model for classification and regression problems. It can solve linear and non-linear problems and work well for many practical problems. The   idea of SVM is as follows: The algorithm creates a line or a hyperplane which separates the data into classes. [3]. They are widely used for classification tasks [4]. Since    the objective is to estimate a class it is a classification problem. Based on other research regarding classification tasks that use a SVM like the one below it was decided to   experiment with SVM’s.[5, 6]
+
+**Two class**
+
+Two class or binary classification means that there are two classes, in case of this research a bedstatus with either a value of zero or one. The positive class zero means a patient has left their bed. The negative class 1 means a patient is in their bed. 
+
+**Logistic regression**
+
+Logistic regression is a classification algorithm, used when the value of the target variable is categorical in nature. This model is most commonly used when the data in question has binary output, so when it belongs to one class or another, or is either a 0 or 1. Based on other research regarding classification tasks that use logistic   regression to get good results like the one below it was decided to experiment with this kind of regression.[7, 8]
+</details>
+
+<details>
+  <summary><h5>Discussion<5></summary>
+
+In this paragraph the validity of this research will be discussed. The data used to make predictions comes from three different nursing home departments: Psychogeriatrics, Somatic and Rehabilitation. The dataset includes information of 78 to 99 anonymized patients. The nature of the conditions the patients have is only generalizable since it is seen as personal data and was not included in the dataset. Therefore, we cannot be certain the results will be consequent since the researched sample might not represent the population. 
+Also, the machine learning model was trained to predict when a patient is getting out of bed, not in their bed. Hence when the model is used in real time when patients might get into their beds the results may vary. Configuring the correct settings in a real time program is necessary to get the best results.
+Another thing to note is that the ground truth is based on the bed status. This algorithm is developed to calculate if a patient is in bed according to sensor data but not by having an actual observer in the patients’ room. This does affect the validity of the results, but this was known up front.
+The methods used during this research are reliable because they were based on best practices like (insert cross validation, balancing dataset, desk research). The literature used was trustworthy because it consisted mostly of peer-reviewed papers.
+One of the expectations of this research was to be able to make better predictions than Momo Medical could do as well as extend the prediction time to a minute. Both goals were achieved as expected and it was determined what the best machine learning model is for this application.
+A big limitation of the research was the time factor. Due to uncertainties of getting the right results with neural networks this research was started with machine learning experiments. Unfortunately results with machine learning that were good enough to start experimenting with neural networks came in too late for it to be feasible to step over to neural networks. Because of this we excluded neural networks from the scope of this project.
+Based on a study about human activity recognition [11] the expectation was that with the aid of machine learning it is possible to recognize and predict when someone is going to get out of bed. In the end the expectations were met since the machine learning model was able to make accurate predictions.
+This research shows that a linear support vector machine using time shifted features is the best model to be able to make correct predictions for this application.
+Momo medical can use this model to aid in preventing fall accidents among elderly and or revalidating patients in nursing homes. Due to the recall, accuracy and precision of the predictions personnel hopefully will not lose their trust in the use of the model when this gets implemented in real time.
+
+</details>
 
 <h2>11. Scrum backlog tickets </h2>
 
