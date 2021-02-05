@@ -11,7 +11,7 @@
     <ul><h5>3.2. Onderzoeksvragen</h5></ul>
     <ul><h5>3.3. Jargon en definities</h5></ul>
     <ul><h5>3.4. Literatuur</h5></ul>
-  <h5> 4. project Methoden en planning </h5>
+  <h5> 4. project Methoden </h5>
   <h5> 5. Voorbereiding data </h5>
     <ul><h5>5.1. Verkennen data</h5></ul>
     <ul><h5>5.2. Opschonen data</h5></ul>
@@ -323,7 +323,7 @@ De kern van mijn bevinden van het literatuur onderzoek heb ik besproken tijdens 
 
 
 
-<h2>4. Project methoden en planning</h2>
+<h2>4. Project methoden </h2>
   <ul>
     <h6>Methoden</h6>
 Tijdens dit project hebben we gewerkt volgens de scrum methode. Onze sprints waren elk twee weken lang waarbij er elke dag een dailystandup is gehouden. Hierbij vertelde ieder projectlid om beurten wat hij of zij had gedaan. Ook werd er dan verteld waar tegenaangelopen was en wat hij of zij ging doen de komende dag. Verder hebben we na elke sprint een sprint review/retrospective gehouden. Dit hebben we gedaan om de problemen tijdens vorige sprints te voorkomen en de samenwerking te verbeteren. We hebben asl tool hiervoor ook Trello gebruikt. Hierin werd onze backlog bijgehouden en de taken gedefineerd.
@@ -333,10 +333,7 @@ Tijdens dit project hebben we gewerkt volgens de scrum methode. Onze sprints war
   <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/trello.PNG?raw=true"width="60%"/>trello.PNG</a>
   </details>
 
-  
-   <h6>Planning</h6>
-Hieronder is een link te vinden naar onze globale planning die wij aan het begin van het project hebben opgesteld. Uiteindelijk heeft deze ons erg veel geholpen in het scherp houden van de scope.
-  <a href="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/planning%20(2).xlsx">Link naar planning.xlsx</a>
+   
   </ul>
 
 <h2>5. Voorbereiding data</h2>
