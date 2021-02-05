@@ -361,7 +361,7 @@ Alle data die door MomoMedical is aangeleverd is verzameld door middel van hun s
   <tr><td>Accelerometer (PE)</td> <td>1</td> <td>10HZ</td> <td>Deze sensor meet de versnellig en beweging van de sensorplaat. Deze wordt gebruikt om de orientatie van de sensorplaat te bepalen</td></tr>
 </table>
 <br></br>
-De rauwe aangeleverde csvfiles bestaan uit 92 kolommen. Dit zijn de belangrijkste kolommen: time, bedstatus, sp_electric-kolommen, sp_resistive-kolommen, sp_accelero-kolommen en device_id. Allereerst wil ik toelcihten waarom er zoveel kolommen zijn, dit heeft met de sampling fequency te maken. Sommige sensoren meten vaker dan anderen zoals te halen is uit de tabel hierboven. MomoMedical heeft ons een visualisatie script aangeleverd waarin alle sensoren worden omgezet naar een frequentie van 120HZ.
+De rauwe aangeleverde csv files bestaan uit 92 kolommen. Dit zijn de belangrijkste kolommen: time, bedstatus, sp_electric-kolommen, sp_resistive-kolommen, sp_accelero-kolommen en device_id. Allereerst wil ik toelcihten waarom er zoveel kolommen zijn, dit heeft met de sampling fequency te maken. Sommige sensoren meten vaker dan anderen zoals te halen is uit de tabel hierboven. MomoMedical heeft ons een visualisatie script aangeleverd waarin alle sensoren worden omgezet naar een frequentie van 120HZ.
 <br></br>
 Hieronder staat een link naar een Python notebook die ik heb gebruikt om de kolommen van de rauwe data uit te printen. Als eerst heb ik genavigeerd naar de juiste map om de data te kunnen bereiken. Daarna heb ik met pd.read_csv() de data ingelezen. Hierna heb ik het dataframe geprint en een lijst met kolomnamen gemaakt en deze geprint.
 <br></br>
@@ -401,7 +401,14 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
 <h2>6. Voorspellende analyse </h2>
 <ul>
   <h4>6.1. Selectie model</h4>
-  
+  Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel input gevraagd vanuit de groep maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.   
+Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Na het verkennen van verschillende modellen door middel van literatuur onderzoek heb ik dit model gevonden en voorgelegd aan de groep om te gaan gebruiken. Hetzelfde geldt voor logistic regression.
+LinearSVC is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
+   <br></br>
+Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Data Classification. International Journal of Advanced Research in Computer Engineering & Technology, 1(10), 185–189. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
+
+K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. https://ieeexplore.ieee.org/abstract/document/8231736
+ <br></br>
 <details>
 <summary>Link naar de Python notebook van code die door mij is geschreven.</summary>
 [Model 3 Two class SVM](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Model%203%20Two%20class%20SVM.pdf)
@@ -412,49 +419,51 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
 <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Select%20model.PNG">
 </details>
 
-Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel input gevraagd vanuit de groep maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.   
-Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Na het verkennen van verschillende modellen door middel van literatuur onderzoek heb ik dit model gevonden en voorgelegd aan de groep om te gaan gebruiken. Hetzelfde geldt voor logistic regression.
-LinearSVC is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
-   <br></br>
-Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Data Classification. International Journal of Advanced Research in Computer Engineering & Technology, 1(10), 185–189. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
+In de bovenstaande door mij geschreven code wordt het model Linear SVC geinitialiseerd. Dual staat op "false"omdat het aantal rijen in ons dataframe groter is dan het aantal features, zit zorgt voor een liblinear convergence error die opgelost wordt door dual op false te zetten. Verder wordt het model gefit op de features van de trainingsset(train_X) en de ground truth wat in ons geval de bestatus is(train_y)
 
-K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. https://ieeexplore.ieee.org/abstract/document/8231736
- <br></br>
+
   
   
 
 
   <h4>6.2. Configuratie model</h4>
 Uit het literatuur onderzoek is gekomen dat men door middel van het gebruik van een timeshift een voorspellend model kan maken. Nadat ik dit had gevonden heb ik aan de groep     voorgelegd om dit te gaan implementeren en na diverse gesprekken met de begeleiders hebben we dit toegepast. De manier waarop het dataframe is vormgegeven is specifiek door     mij bedacht. Elke rij vormt één situatie waarin iemand uiteindelijk wel of niet uit bed gaat de kolommen bestaan uit de sensordata op bepaalde punten in tijd voot het moment     van uit bed stappen. 
-Dit is anders dan bij de meeste voorspellende modellen waarin de verloop van de tijd als het ware van boven naar benede loopt door de rijen. Bij ons is de verloop van tijd uitsluitend in de kolommen. De literatuur over de time shift is te vinden in de literatuurlijst als Link 8. De literatuur over de SVM is te vinden onder link 12.
-  
+Dit is anders dan bij de meeste voorspellende modellen waarin de verloop van de tijd als het ware van boven naar benede loopt door de rijen. Bij ons is de verloop van tijd uitsluitend in de kolommen. De literatuur over de time shift is te vinden in de literatuurlijst als Link 8. De literatuur over de SVM is te vinden onder link 12.  
 
+Tijdens het bedenken en maken van features heb ik onderandere experimenten gedaan met het gemiddelde van de FSR-sensoren, de standaard afwijking en de som van versnellingen. Het gemiddelde van de FSR-sensoren is uiteindelijk Avg_column geworden. Alhoewel ik de feature niet zelf bedacht heb maar deze direct as voorbeeld van jeroen heb overgenomen ben ik wel verantwoordelijk geweest voor het schrijven van de code voor deze feature.
+
+Hier is een link naar de code
+
+
+Hier is een link naar de code die ik gebruikt heb om te kijken of ik een model kon fitten op basis van twee features. Deze zijn uiteindelijk niet gebruikt in het model maar de code voor het genereren van de avg_column door middel van een rolling window is wel gebruikt.
+https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Standard%20deviation%20feature%20rolling%20window.pdf
   
+De uiteindelijk de gebruikte features, die de beste resultaten gaven zijn:
   
-  Er zijn bepaalde features bedacht. de gebruikte features zijn:
-  
-  - Bed_status2
-  
+  - Bed_status2,
   - left
-  
   - right
-  
   - Avg_column
-  
   - slope
-  
   - FSR_25s_variance
-  
   - Slopelmr*
   
+  Hieronder is een link naar een afbeelding van de trainingset die ik in het model heb geladen. Dit geeft inzicht in hoe het model geconfigureerd is.
+  https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Trainings%20set.PNG
   
-  <h4>6.3. Training model</h4>
   Voor het trainen van het uiteindelijke model is er gebruik gemaakt van de bovenstaande featureset.  
-  De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en        validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
+  De training en validatie dataset is door middel van de onderstaande code opgesplitst in “train” en “valid” waarbij de trainingsset 70% is van de dataset voor trainen en          validatie. Er is voor deze verhouding gekozen omdat het gezien wordt al een standaard.
 <br></br>
 (link https://link.springer.com/article/10.1007/s41066-017-0049-2)
 <br></br>
-  Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor   dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit   balans kan zijn zoals beschrveen in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de    trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
+ 
+  
+  
+  
+  
+  <h4>6.3. Training model</h4>
+
+  Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor   dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit   balans kan zijn zoals beschreven in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de    trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
 
   De model socres gebaseerd op de trainings-dataset waren:
   - accuracy:  0.8046204620462046
