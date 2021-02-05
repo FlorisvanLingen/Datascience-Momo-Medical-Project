@@ -485,7 +485,7 @@ Dit is anders dan bij de meeste voorspellende modellen waarin de verloop van de 
 
   
   <h4>6.5. Visualisatie model</h4>
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true)
+  <img src ="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true">
   
   
   
