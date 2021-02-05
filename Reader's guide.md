@@ -314,7 +314,8 @@ Een feature is een individueel meetbare eigenschap of kenmerk van een waargenome
   </table>
  </ul>
 
-
+Wat ik uit de verschillende litreratuur heb gehaald is hoe verschillende modellen werken en waarom deze handig kunnen zijn voor ons project. Een voorbeeld hiervan is het gebruik van logistic regression of een support vector machine. Ook hebben we door deze papers inzicht gekregen in hoe we crossvalidation kunnen toepassen en hoe dit de validiteit van de resultaten van ons onderzoek kan aantonen. Ook hebben deze papers visuele ondersteuning geboden voor het begrijpen van time shifts of verschillende vormen van crossvalidation en hoe we dit zelf ook zouden kunnen visualiseren. 
+De kern van mijn bevinden van het literatuur onderzoek heb ik besproken tijdens de stand ups en teems meetingen wanner deze relevant waren voor de te nemen stappen in het onderzoek. Deze papers hebben ervoor gezorgd dat ik inzicht kreeg in bepaalde best practices op het gebied van datascience en ons project. Ook diende bepaalde papers als bewijs dat menselijke bewegingen te classificeren moeten zijn door middel van machinelearning. Zonder een aantal van deze papers zou ik nooit in staat zijn geweest om de code van ons eerste voorspellende model op te zetten.
   
  
 
