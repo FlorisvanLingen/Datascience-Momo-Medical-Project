@@ -532,12 +532,11 @@ De volgende keer zou ik meer focus leggen op feature engineering daarnaast zou i
 Ik heb vanuit de groep vooral meegekregen dat ze de samenwerking als erg aangenaam hebben ervaren. Tussendoor hebben we wel Jeanine gehad die ervoor gekozen heeft op te stoppen maar ik ben van mening dat dit niet door de groep komt. Wel heb ik aan het begin als feedback gekregen meer ruimte voor anderen over te laten om hun mening te kunnen geven en dit heb ik vanaf dat punt dan ook gedaan. Ik heb veel meer gevraagd wat anderen ervan vonden en ik heb gemerkt dan sommige groepsleden daardoor ook mondiger werden. 
 Alhoewel ik betwijfel dat ik op korte termijn iet ga doen met de technische skills die ik heb geleerd tijdens deze minor, heb ik wel veel geleerd over mezelf tijdens deze projectmatige samenwerking. 
 
-<h4>Evaluatie project als geheel<h4>
+<h4>Evaluatie project als geheel</h4>
 Als eerste wil ik graag aangeven dat ik blij ben met de gehaalde resultaten en dat ik het idee heb dat we iets hebben opgeleverd waar de opdrachtegver wat aan heeft. Wel vind ik achteraf gezien dat we tijdens het project meer tijd hadden moeten stoppen in feature engineering en minder lang in hetzelfde configuratie hadden moeten blijven hangen. 
   
-Door Covid-19 is het project vooral vanuit huis uitgevoerd en hoewel ik redelijk gewend was aan thuiswerken mis je toch de synergie die ontstaat als je elkaar fysiek ziet. Ik denk niet dat het weinige fysiek elkaar zien binnen de projectgroep heeft bijgedragen aan minder goede resultaten. Wel denk ik dat we hierdoor minder efficient hebben gewerkt aangezien thuis vaak afleiding is en het betrekken van elkaar bij het project op momenten dat iedereen moe is of geen zin meer heeft is dan lastig. Wel denk ik dat er meer gehaald had kunnen worden uit de gesprekken met begeleiders als deze fysiek hadden plaatsgevonden. Elke begeleider heeft zo zijn of haar kwaliteiten en voor vele is het benaderen van de juiste persoon op het juiste moment toch wat makkelijker als deze fysiek aanwezig is op locatie. 
+Door Covid-19 is het project vooral vanuit huis uitgevoerd en hoewel ik redelijk gewend was aan thuiswerken mis je toch de synergie die ontstaat als je elkaar fysiek ziet. Ik denk niet dat het weinige fysiek elkaar zien binnen de projectgroep heeft bijgedragen aan minder goede resultaten. Wel denk ik dat we hierdoor minder efficient hebben gewerkt aangezien thuis vaak afleiding is en het betrekken van elkaar bij het project op momenten dat iedereen moe is of geen zin meer heeft is dan lastig. Er had naar mijn idee meer gehaald kunnen worden uit de gesprekken met begeleiders als deze fysiek hadden plaatsgevonden. Elke begeleider heeft zo zijn of haar kwaliteiten en voor vele is het benaderen van de juiste persoon op het juiste moment toch wat makkelijker als deze fysiek aanwezig is op locatie.
 
-De samenwerking binnen de groep is uit mijn ervaring goed verlopen. Wel denk ik 
 
 
 <h2>9. Evaluatie </h2>
@@ -549,10 +548,6 @@ Piëzo elektrische sensoren gebruiken voor het meten van de hartslag en dit gebr
 Het gebruik van deep learning neurale netwerken
 Het is mogelijk om het signaal van de piëzo elektrische sensoren te gebruiken door middel van het apparaat dat gebruikt wordt om de data te verzamelen. Uit dit signaal zou dan door middel van een fouriertransformatie gefilterd kunnen worden zodat hieruit het ademhalingsritme en de hartslag gefilterd kan worden. Deze zou dan gebruikt kunnen worden om betere voorspellingen te geven. De hypothese is dat voordat een patiënt uit bed stapt deze vaak eerst wakker of actiever wordt. Hierdoor zou ruim van tevoren de hartslag dan omhoog gaan en dit kan dan gebruikt worden voor het geven van een voorspelling met minder valse positieven. Ook kan het detecteren dat een patiënt uit bed gaat mogelijk eerder al door middel van deze features.
 De manier waarop de data geleverd is leent zich ook heel erg voor het gebruik van deeplearning of neurale netwerken. Neurale netwerken maken gebruik van meer data en vereist niet dat de data gestructureerd is en er door onderzoekers features worden bedacht. Met het gebruik van de totale hoeveelheid data ,dat mogelijk gebruikt kan worden voor het geven van voorspellingen, wordt er verwacht dat dit de beste manier is om op een grotere schaal verder te gaan.
-
-<h4>Evaluatie project als geheel</h4>
-
-
 
 
 <h2>10. Communicatie</h2>
