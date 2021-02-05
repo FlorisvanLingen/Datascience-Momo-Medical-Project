@@ -407,8 +407,12 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
 [Model 3 Two class SVM](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Model%203%20Two%20class%20SVM.pdf)
 </details>
   
+  <details>
+<summary>Het selecteren van het model met Python code</summary>
+![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Select%20model.PNG?raw=true)
+</details>
 
-Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel    input gevraagd vanuit de groep maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.   
+Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel input gevraagd vanuit de groep maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.   
 Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Na het verkennen van verschillende modellen door middel van literatuur onderzoek heb ik dit model gevonden en voorgelegd aan de groep om te gaan gebruiken. Hetzelfde geldt voor logistic regression.
 LinearSVC is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
    <br></br>
@@ -416,6 +420,7 @@ Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Dat
 
 K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of human activity based on smartphone inertial sensor using support vector machine," 2017 IEEE 3rd International Symposium in Robotics and Manufacturing Automation (ROMA), Kuala Lumpur, 2017, pp. 1-5, doi: 10.1109/ROMA.2017.8231736. https://ieeexplore.ieee.org/abstract/document/8231736
  <br></br>
+  
   
 
 
