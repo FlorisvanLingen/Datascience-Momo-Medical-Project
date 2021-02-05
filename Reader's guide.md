@@ -407,8 +407,7 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
 </details>
   
 
-  
-  
+Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel    input gevraagd vanuit de groep maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.   
 Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Na het verkennen van verschillende modellen door middel van literatuur onderzoek heb ik dit model gevonden en voorgelegd aan de groep om te gaan gebruiken. Hetzelfde geldt voor logistic regression.
 LinearSVC is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
    <br></br>
@@ -420,7 +419,6 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
 
 
   <h4>6.2. Configuratie model</h4>
-Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel    input gevraagd vanuit de groep       maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.
 Uit het literatuur onderzoek is gekomen dat men door middel van het gebruik van een timeshift een voorspellend model kan maken. Nadat ik dit had gevonden heb ik aan de groep     voorgelegd om dit te gaan implementeren en na diverse gesprekken met de begeleiders hebben we dit toegepast. De manier waarop het dataframe is vormgegeven is specifiek door     mij bedacht. Elke rij vormt één situatie waarin iemand uiteindelijk wel of niet uit bed gaat de kolommen bestaan uit de sensordata op bepaalde punten in tijd voot het moment     van uit bed stappen. 
 Dit is anders dan bij de meeste voorspellende modellen waarin de verloop van de tijd als het ware van boven naar benede loopt door de rijen. Bij ons is de verloop van tijd uitsluitend in de kolommen. De literatuur over de time shift is te vinden in de literatuurlijst als Link 8. De literatuur over de SVM is te vinden onder link 12.
   
