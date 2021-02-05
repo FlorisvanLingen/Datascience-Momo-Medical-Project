@@ -409,7 +409,7 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
   
   <details>
 <summary>Het selecteren van het model met Python code</summary>
-![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Select%20model.PNG)
+<img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Select%20model.PNG">
 </details>
 
 Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel input gevraagd vanuit de groep maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.   
@@ -480,12 +480,12 @@ Dit is anders dan bij de meeste voorspellende modellen waarin de verloop van de 
   
   De scores van de evaluatie set zien er uit als volgt:
   <br></br>
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/evaluatieset.PNG?)
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/evaluatieset.PNG?raw=true)
   
 
   
   <h4>6.5. Visualisatie model</h4>
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?)
+  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true)
   
   
   
