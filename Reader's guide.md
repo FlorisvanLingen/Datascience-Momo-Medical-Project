@@ -306,10 +306,10 @@ Een feature is een individueel meetbare eigenschap of kenmerk van een waargenome
       <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
     </tr>
     <tr>
-      <td> A Review on Support Vector Machine for Data Classification..</td>
-      <td></td>
+      <td> A Review on Support Vector Machine for Data Classification.</td>
+      <td>Uitleg over een SVM </td>
       <td>14-10-2020</td>
-      <td><a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf">Link 11</a></td>
+      <td><a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf">Link 12</a></td>
     </tr>
   </table>
  </ul>
