@@ -484,7 +484,7 @@ Er is gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat m
 
   
   <h4>6.5. Visualisatie model</h4>
-  Ik heb voor het visualiseren van de uitkomst van het model een script geschreven dat automatisch weergeeft wat de samenstelligen zijn van de trainingsset en validatie set. Ook wordt er een confusion matrix getoont die de resultaten weergeeft naast de scores. Beide grafieken zijn zo geschreven dat de het eerder genoemde python notebook gaat het om de cel met notitie:"Group all plots". Door deze visualisaties is er een probleem waar we tegenaan liepen verholpen, namelijk dat we ten alle tijden konden weergeven wat de configuraties waren.
+  Ik heb voor het visualiseren van de uitkomst van het model een script geschreven dat automatisch weergeeft wat de samenstelligen zijn van de trainingsset en validatie set. Ook wordt er een confusion matrix getoont die de resultaten weergeeft naast de scores. Beide grafieken zijn zo geschreven dat de het eerder genoemde python notebook gaat het om de cel met notitie:"Group all plots". Door deze visualisati matrix en onderstaande plots.
   <img src ="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/verhoudingen%20train%20en%20test%20set.PNG?raw=true">
   
   
