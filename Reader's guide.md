@@ -305,11 +305,18 @@ Een feature is een individueel meetbare eigenschap of kenmerk van een waargenome
       <td>12-11-2020</td>
       <td><a href="https://towardsdatascience.com/multiclass-classification-with-support-vector-machines-svm-kernel-trick-kernel-functions-f9d5377d6f02">Link 11</a></td>
     </tr>
+    <tr>
+      <td> A Review on Support Vector Machine for Data Classification..</td>
+      <td></td>
+      <td>14-10-2020</td>
+      <td><a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf">Link 11</a></td>
+    </tr>
   </table>
  </ul>
 
 
-
+  
+ 
 
 
 
@@ -395,7 +402,8 @@ Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. D
   <h4>6.1. Selectie model</h4>
   
   
-  Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Dit is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
+Voor het uiteindelijke model is er gekozen voor LinearSVC, dit is een Linear support vector machine(svm). Na het verkennen van verschillende modellen door middel van literatuur onderzoek heb ik dit model gevonden en voorgelegd aan de groep om te gaan gebruiken. Hetzelfde geldt voor logistic regression.
+LinearSVC is een model dat onder toezicht leert en gebruikt wordt voor classificatie en regressie analyse. Aangezien het ons doel is om een klasse te voorspellen en geen getal te benaderen gaat het om een classificatie probleem. Gebaseerd op andere onderzoeken met betrekking tot classificatie die een SVM gebruiken is besloten als eerste model te gaan experimeneteren met een SVM. Een voorbeeld van een van de onderzoeken waar deze keuze op gebaseerd is, zijn het volgende onderzoeken:
    <br></br>
 Bhavsar, H., & Panchal, M. H. (2012). A Review on Support Vector Machine for Data Classification. International Journal of Advanced Research in Computer Engineering & Technology, 1(10), 185–189. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
 
@@ -405,7 +413,15 @@ K. Nurhanim, I. Elamvazuthi, L. I. Izhar and T. Ganesan, "Classification of huma
 
 
   <h4>6.2. Configuratie model</h4>
-  Voor de configuratie van het model is door mij gekozen voor een timeshift om het model voorspellend te maken. Deze is te vinden in de literatuurlijst. Er zijn bepaalde features bedacht. de gebruikte features zijn:
+Tijdens dit project heb ik vrijwel volledig alles vanaf de selectie van het model tot aan de visualisatie op mij genomen, behalve de feature selection. Uiteraard is er veel    input gevraagd vanuit de groep       maar ik ben verantwoordelijk geweest voor het doorvoeren van veranderingen aan het model.
+Uit het literatuur onderzoek is gekomen dat men door middel van het gebruik van een timeshift een voorspellend model kan maken. Nadat ik dit had gevonden heb ik aan de groep     voorgelegd om dit te gaan implementeren en na diverse gesprekken met de begeleiders hebben we dit toegepast. De manier waarop het dataframe is vormgegeven is specifiek door     mij bedacht. Elke rij vormt één situatie waarin iemand uiteindelijk wel of niet uit bed gaat de kolommen bestaan uit de sensordata op bepaalde punten in tijd voot het moment     van uit bed stappen. 
+Dit is anders dan bij de meeste voorspellende modellen waarin de verloop van de tijd als het ware van boven naar benede loopt door de rijen. Bij ons is de verloop van tijd uitsluitend in de kolommen. De literatuur over de time shift is te vinden in de literatuurlijst als Link 8. 
+  
+ https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1039.2508&rep=rep1&type=pdf 
+ https://doi.org/10.1109/get.2016.7916627
+  
+  
+  Er zijn bepaalde     features bedacht. de gebruikte features zijn:
   
   - Bed_status2
   
