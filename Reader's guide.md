@@ -365,14 +365,6 @@ Hieronder staat een link naar een Python notebook die ik heb gebruikt om de kolo
 https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/Read%20raw%20csv%20file.pdf
 <br></br>
 
-Hieronder staat een andere link naar het visualisatiescript van MomoMedical dit script transformeert alle sensoren naar de zelfde sampling frequentie en verminderd het aantal kolommen drastisch.
-<br></br>
-https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/visualisatiescriptMOMO.PNG
-
-Hieronder staat een link  naar de rauwe data gevisualiseerd. Op de x-as staat de tijd en op de y-as staat van beneden naar boven de hoeveelheid trillingen,druk en bedstatus.
-<br></br>
-https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Python-Code/visualisatie%20raw%20data.PNG
-
 Nog even terug naar de niet uitgelegde kolommen, time is de tijd in unix-tijd. De bedstatus is of de patient in bed ligt, zit of niet in bed is. Een bedstatus van 2 betekent dat de patient in bed ligt, als die 1 is betekent het dat de patient de intentie heeft om uit bed te gaan een waarschijnlijk op het bed zit, 0 betekent dat de patient niet meer in of in de buurt van het bed is.De sp_electric-kolommen slaan de gemeten data op van de piëzo sensoren, de sp_resistive-kolommen slaan de gemeten data op van de FSR-sensoren en de sp-acccero-kolommen slaan de data op van de versnellingsmeter. Device_id staat voor de identificatie code van de desbetreffende sensoreplaat.
   </ul>
   
@@ -459,15 +451,14 @@ De uiteindelijk de gebruikte features, die de beste resultaten gaven zijn:
   
   
   <h4>6.3. Training model</h4>
+Er is gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit balans kan zijn zoals beschreven in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de    trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit. Om te zien hoe ik dit gecodeerd heb wil ik graag nog verwijzen naar de voorafgaande link met daarin mijn code.
 
-  Hierna is er gezorgd dat er in de trainingset een verhouding was van 50% gevallen dat mensen uit bed gaan en 50% van gevallen waarin mensen niet uit bed gaan. Dit zorgt ervoor   dat het model geen voorkeur heeft om de positieve of negatieve klasse te voorspellen. Het balanceren van de trainingset is gedaan omdat na de datasplit de trainingset weer uit   balans kan zijn zoals beschreven in de bovenstaande literatuur. Hierna zijn de accuracy,recaal en precision scores berekent over de training en validatieset. Als eerst de    trainingsset om te kijk hoe goed het model uiteindelijk fit op de trainingsdata en de validatie set om te kijken of het model bij nieuwe data niet over of underfit.
-
-  De model socres gebaseerd op de trainings-dataset waren:
+  De model scores gebaseerd op de trainings-dataset waren:
   - accuracy:  0.8046204620462046
   - precision: 0.8825082508250826
   - recall:    0.7635636778983438
 
-  De model socres gebaseerd op de validatie-dataset waren:
+  De model scores gebaseerd op de validatie-dataset waren:
   - accuracy:  0.8220786846741045
   - precision: 0.8835807050092764
   - recall:    0.8429203539823009
@@ -475,7 +466,9 @@ De uiteindelijk de gebruikte features, die de beste resultaten gaven zijn:
   Deze scores zullen altijd tussen de 0 en 1 liggen waarbij 1 hest beste is.
   
   De scores van de validatieset zien er uit als volgt:
-  ![](https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true)
+  <img src="https://github.com/FlorisvanLingen/Datascience-Momo-Medical-Project/blob/Images/confusion%20matrix%20validatieset.PNG?raw=true">
+   
+  
   
   <h4>6.4. Evaluatie model</h4>
   Voor de evaluatie van het model is altijd cross validation gebruikt. Dit betekent dat de data wordt opgesplitst in een training en test set. 
